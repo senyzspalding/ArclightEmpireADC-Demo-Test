@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   mount Arclight::Engine => '/'
 
   root to: "arclight/repositories#index"
+concern :hierarchy, Arclight::Routes::Hierarchy.new
   concern :searchable, Blacklight::Routes::Searchable.new
 
   resource :catalog, only: [], as: 'catalog', path: '/catalog', controller: 'catalog' do
@@ -14,6 +15,10 @@ Rails.application.routes.draw do
 
   resources :solr_documents, only: [:show], path: '/catalog', controller: 'catalog' do
     concerns :exportable
+  end
+
+resources :solr_documents, only: [:show], path: '/catalog', controller: 'catalog' do
+    concerns [:exportable, :hierarchy] # Add :hierarchy to this array
   end
 
   resources :bookmarks, only: [:index, :update, :create, :destroy] do

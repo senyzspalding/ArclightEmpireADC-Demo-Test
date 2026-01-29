@@ -1,0 +1,11 @@
+sample_unitid:
+  ead:
+    href: 'http://arclight.senylrc.org/search/xml/sample.xml'
+    size: 123456
+
+default:
+  disabled: false
+  pdf:
+    template: 'https://empireadc.org/ead/%{repository_id}/%{eadid}.prt'
+  ead:
+    template: 'https://empireadc.org/ead/%{repository_id}/%{eadid}.xml'

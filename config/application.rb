@@ -23,5 +23,9 @@ module ArclightEmpireAdc
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+config.to_prepare do
+      Arclight::Engine.routes.default_url_options = Rails.application.routes.default_url_options
+    end
+
   end
 end
