@@ -6,8 +6,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <eadheader audience="internal" countryencoding="iso3166-1"
   dateencoding="iso8601" langencoding="iso639-2b"
   repositoryencoding="iso15511">
-    <eadid countrycode="us" mainagencycode="nynephhs">
-    nynephhs_4501</eadid>
+    <eadid countrycode="us" mainagencycode="nynephhs">nynephhs_4501</eadid>
     <filedesc>
       <titlestmt>
         <titleproper>Ayres Family Letters</titleproper>
@@ -46,11 +45,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       War.</abstract>
       <unitdate type="inclusive" normal="1839/1900">1839 -
       1900</unitdate>
-      <repository>
+     <repository>
+        <corpname>Historic Huguenot Street</corpname>
         <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
           <addressline>New York</addressline>
+          <addressline>12561</addressline>
           <addressline>United States</addressline>
         </address>
+        <extptr xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:type="simple"
+        xlink:href="https://www.huguenotstreet.org/" />
       </repository>
     </did>
     <accessrestrict>
