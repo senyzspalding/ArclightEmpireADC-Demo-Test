@@ -1,0 +1,451 @@
+<?xml-stylesheet type="text/xsl" href="/ead_print.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_5119</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Deyo Family Papers (1675-1878)</titleproper>
+        <author>Eric Roth 11/18/98. Last revised 9/26/2002</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2022-10-19</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Carolyn Tornatore</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: a Content
+      Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Deyo Family Papers</unittitle>
+      <unitid></unitid>
+      <origination label="Creator">
+        <famname source="local">Deyo family</famname>
+      </origination>
+      <physdesc>
+        <extent>1 cubic feet</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate type="inclusive" normal="1675/1878">
+      1675-1878</unitdate>
+      <repository>
+        <corpname>Historic Huguenot Street</corpname>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>There are no access restrictions to any of the materials
+      in the collection.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Request for permission to publish materials from these
+      records should be discussed with the Archivist and Director
+      of Historic Huguenot Street.</p>
+    </userestrict>
+    <bioghist>
+      <p>French Huguenot Christian Deyo was born in the province of
+      Artois, France (c.1610), and married Jeanne Wibau (c. 1642),
+      by whom he had five children. It is believed that Christian
+      and his family relocated to Mannheim, Germany in 1660 in
+      order to avoid religious persecution. The family then
+      traveled to America on the same ship as Abraham Hasbrouck in
+      1675. After spending a year at Kingston (then called
+      Wiltwyck), the Deyo family settled at New Paltz in 1677,
+      where Christian Deyo and his son Pierre both signed the
+      patent and became two of the twelve original trustees of New
+      Paltz. Other than Christian's mark on the New Paltz Patent,
+      the only records referring to him during his lifetime consist
+      of testamentary disposition dated Aug. 10, 1676 and a fair
+      copy of a slave purchase in 1680. Christian's son, Pierre,
+      purchased a slave in 1694.</p>
+      <p>Throughout the old documents, Christian is often referred
+      to as “Granpere.” In fact, all four of Christian's daughters
+      married New Paltz patentees, therefore making Christian Deyo
+      the literal grandfather to a large majority of the early New
+      Paltz inhabitants. Because of this development, “Granpere’s”
+      grandchildren were constantly dividing and redistributing
+      Christian’s share of the patent during the next fifty years.
+      As Town Historian Al Marks writes, “the DuBois and Deyo
+      families were soon brought even closer together by the
+      marriage of Abraham DuBois with another of the daughters of
+      Christian Deyo, who thus became grandfather of so many of the
+      New Paltz inhabitants that even his property became known
+      simply as ‘Grandpere’ in the old deeds. The calculation of
+      shares of that property passed down to his heirs became,
+      after a generation or two, an exercise in high mathematics.”
+      When the Freeholders of New Paltz decided to elect the
+      “Twelve Men” to administer to the defense of the Patent in
+      1738, Daniel Hasbrouck B-6 (1692-1759) was elected to
+      represent Christian's share, not a Deyo. In fact, no Deyo was
+      ever elected to represent Christian's share throughout the 85
+      years of the existence of the institution.</p>
+      <p>Christian’s son Pierre Deyo A-2 (also known as Pieter) was
+      most likely born in France in 1648. He married Agatha Nicken
+      in Mutterstadt, Curr Pfalz, Germany just prior to their
+      emigration to America in 1675. Pierre and Agatha had eight
+      children, all of whom, it is believed, were born in New Paltz
+      and baptized at the Dutch Reformed Church at Kingston, New
+      York. In 1692, Pierre built the “Deyo House,” which still
+      stands and is now owned and operated by Historic Huguenot
+      Street. Pierre died sometime between 1703 and 1708.</p>
+      <p>In 1708, Pierre’s lands were divided between his four sons
+      Abraham B-1 (1676-1725), Christian B-3 (1681-after 1765),
+      Pierre B-4 (1683-after 1755) and Hendricus B-7 (bp.
+      1690-after 1737). At this time, Hendricus was given unto the
+      care of Col. Jacob Rutsen of Marbletown and his share of
+      Pierre’s lands divided between his three brothers. Hendricus
+      later married Margaret Van Bommel (1715), had 10 children,
+      paid taxes in New Paltz in 1723, and was listed as a
+      freeholder in 1728. Abraham B-1 married Elsie Clearwater in
+      1702 and had three children. The Deyo House was most likely
+      transferred to Abraham after his father's death. 'Two
+      surviving receipts reveal that Abraham was a New Paltz
+      taxpayer in 1712/3, and Tax Collector in 1723.</p>
+      <p>Christian B-3 settled in the hamlet of Springtown in New
+      Paltz, married Mary deGraff in 1702 and had seven children.
+      He is listed as a New Paltz inhabitant and taxpayer in 1713
+      and 1723, respectively, a freeholder in 1728, a slaveholder
+      1755, and served as a soldier under Capt. Hoffman in 1716.
+      Christian helped to build the Dutch Reformed Church of New
+      Paltz in 1720, of which he later served as Deacon and Elder
+      in 1733 and 1765, respectively.</p>
+      <p>Abraham Deyo C-3 (1710-1777), son of Abraham, married
+      Elizabeth DuBois (1735), by whom he had five children. As a
+      member of the “Twelve Men,” he represented his grandfather’s
+      share of the New Paltz Patent for 64 years (1738-1772).
+      Extremely active in town affairs, he was elected Overseer of
+      Roads (1763-1764), Overseer of the Poor (1773?), Fence Viewer
+      (1761), and Commissioner of Highways (1763-1764). He was also
+      appointed Elder of the New Paltz Dutch Reformed Church
+      (1766-67, 1771-72, 1775-76), and Church master (?-1777).
+      Abraham also became the next owner of the Deyo House.</p>
+      <p>Hendricus’ son, Benjamin Deyo C-15 (1725-1798) resided in
+      the Bontecoe area of New Paltz. He purchased land there from
+      Christophel Deyo C-17 (1762), Abraham Donaldson (1775), and
+      from Marinus Van Aken (1785). He married Jenneke VanVliet in
+      1751 and had five children. As a member of the Twelve Men, he
+      represented Pierre Deyo’s share of the New Paltz Patent in
+      1773, and later in 1780-90. Also, in 1780 Benjamin Deyo was
+      elected to two town officer positions: Commissioner of
+      Highways and Overseer of the Poor. At the Dutch Reformed
+      Church at New Paltz, he served as Deacon (1766-67, 1774-75),
+      and Elder (1782-83, 93-94). Benjamin also signed the Articles
+      of Association in 1775.</p>
+      <p>Johannis Deyo, C-16 (1726-after 1761) married Sarah Van
+      Wagenen in 1756, by whom Johannis had seven children. He was
+      elected Constable of New Paltz in 1761 and appointed Deacon
+      of the Reformed Dutch Church at New Paltz (1757). Christophel
+      Deyo C-17 (1728-1792) married Debora Van Vliet (c. 1756) and
+      had three children. He sold land at Bontecoe to Benjamin Deyo
+      in 1761 and 1762. At New Paltz, he was elected Assessor
+      (1772-1773), Fence Viewer (1780), and Overseer of Roads
+      (1780, 1782, 1788). At the Reformed Dutch Church at New
+      Paltz, he was appointed Deacon (1764-1765, 1769-1770) and
+      Elder (1779-1780, 1788-1789). Henricus Deyo C-19, like his
+      brothers Benjamin and Christophel, (1731-1805) also resided
+      at Bontecoe. He married Elizabeth Beem (1753) by whom he had
+      six children. At New Paltz he held the positions of Overseer
+      of Roads (1776-1777, 1779, 1785-1787, 1789-1790, 1792) and
+      Overseer of the Poor (1783).</p>
+      <p>Captain Abraham Deyo D-1 (1734-1805) married Elsie LeFevre
+      in 1764 and later married Maria LeFevre sometime after 1766.
+      Abraham Deyo was commissioned First Lieutenant (1775) and
+      later Captain (1778) of the Third Ulster County Regiment,
+      Second Company. He was a member of the Twelve Men
+      representing his great-grandfather Pierre’s share of the
+      patent (1774-1779, 1794-1805), and held numerous offices in
+      the town of New Paltz. Positions include the offices of
+      Constable (1771), Tax Collector (1771), Overseer of the Poor
+      (1773), Fence Viewer (1774-76, 1784-1789), Overseer of Roads
+      (1775-1776, 1783-1784, 1788-1789), Commissioner of Highways
+      (1779) and Assessor (1790, 1794, 1796). Also active in the
+      Church, he was appointed Manager in charge of "building a new
+      church at New Paltz" (1771-1775), Church master (1777-1805)
+      Deacon (1778-1779) and Elder (1776-1777). According to Ralph
+      Lefevre, Abraham Deyo was entrusted with caring for the
+      Town's papers during the Revolutionary War when there was a
+      fear that the British were going to march on New Paltz. This
+      chest was supposedly kept hidden in the cellar of the Deyo
+      House, which was at that time owned by Captain Deyo.</p>
+      <p>Abraham’s brother Philip D-7 (1752-1831), married Gertrude
+      Lefevre in 1781, who bore nine children. Like his brother
+      Abraham, Philip was also engaged in numerous public
+      activities at New Paltz. He represented Pierre’s share of the
+      Patent as a member of the Twelve Men from 1791-1793 and
+      served as Overseer of Roads (1792) and Assessor (1795). In
+      1791, the Twelve Men selected Philip along with Roelof
+      Eltinge and Josiah Hasbrouck to represent New Paltz in a Case
+      of Ejectment against Titus Ketchum and the people of
+      Marbletown. This case dealt with a long-standing border
+      dispute between New Paltz and Marbletown. New Paltz finally
+      won the case in 1804. Like the rest of his family, Philip was
+      also a member of the Dutch Reformed Church at New Paltz.</p>
+      <p>Other Deyo family members represented in the papers
+      include William Deyo D-81 (1761-1842) Michael Deyo E-63 (bp.
+      1767), Abraham A. Deyo E-2 (1793-1873) and Abraham W. Deyo
+      E-257 (1802-1870). William married Sarah Elting (1781), who
+      bore eleven children. William bought land in New Paltz from
+      Johannis Bruyn in 1793. William served on the “Duzine,”
+      representing the share of Pierre Deyo (1806-1818, 1820-1824).
+      He also served as Deacon of the Reformed Dutch Church at New
+      Paltz (1810-1811). His son, Abraham W. Deyo married Catherine
+      Bogardus in 1829 and had five children. Michael married
+      Martha Dusebury (?) and had one son, Henry Deyo. Although he
+      was listed as a yeoman of New Paltz in 1770, Michael later
+      turns up in Beekman, Dutchess County.</p>
+      <p>Also serving as a member of the Twelve Men, he represented
+      the Patentee’s share of Antoine Crispell (1776-1777). Abraham
+      A. Deyo married Margaret T. Deyo (F-3) in 1812, had four
+      children, and lived in the Deyo House for some time until he
+      relocated to Plattekill, where he served as Supervisor
+      (1835-1839, 1841-1842). He may have also served as a circuit
+      judge. Following his tenure as Supervisor, Abraham A. Deyo
+      served on the New York State Senate from 1843-1846. Upon his
+      death in 1873, Abraham bequeathed the house and property to
+      his son Abraham A. Deyo, Jr.</p>
+      <p>Theodore Deyo F-77 (1831-1893) married Mary E. Elting in
+      1855 and had 5 children. Theodore was born at the “Old Deyo
+      Homestead” in New Paltz and later owned the property from
+      1855-1866. In 1866, he sold the property and purchased a farm
+      southeast of the New Paltz village. He attended the Academy
+      of New Paltz, pursued studies at Springfield, Massachusetts,
+      worked as a clerk for Jewett &amp; Wood in Poughkeepsie, and
+      established hardware store in New Paltz, later bought out by
+      D.A. Hasbrouck in 1870 when Theodore became Postmaster at New
+      Paltz (1870-1884). Theodore also served as a Trustee of the
+      New Paltz Academy as well as a member of the Sons of
+      Temperance. He was also hailed as a “recognized leader” of
+      the Republican Party.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The majority of the collection concerns the property
+      holdings of the Deyo family at New Paltz and Esopus during
+      the eighteenth and nineteenth centuries. Records include
+      receipts, notes, subpoenas, wills, estate inventories, bonds,
+      and deeds. Items of specific interest are slave purchases of
+      Christian and Pierre Deyo (1680, 1694); will of Daniel
+      DuBois, (1752); receipts concerning the construction of a
+      schoolhouse and the Dutch Reformed Church at New Paltz
+      (1770-1775); and purchases of domestic supplies such as wheat
+      and livestock. There is also an estate inventory book of
+      William Deyo (1812-1833).</p>
+      <p>Other items of interest in the collection include a
+      “marriage certificate” of Pierre Deyo and Agatha Nicken
+      (1675); a certificate of appointment of Jacob Deyo to
+      Regimental Colonel of the 92nd Regiment of Infantry of New
+      York State (1816); a certificate of appointment of Theodore
+      Deyo to Postmaster of New Paltz in 1870, and a diploma of
+      Gertrude Deyo from the New Paltz Academy (1878). Other local
+      individuals represented in the collection are Isaac Freer,
+      Thomas Delanal, Agustus Van Marche, Marinus and Eliphas Van
+      Aken, Abraham Donaldson, Johannis Bruyn, Hugo and Johannis
+      Freer, James Soper, Gilbert Cuthbert Rice, and Matthew Allen.
+      The Wurtz, McDonald, and Auchmoody families are also
+      mentioned.</p>
+      <p>The overall condition of the papers is quite good and the
+      handwriting legible.</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <famname source="snac" authfilenumber="w6jj2sk6"
+      xlink:type="locator"
+      xlink:href="http://n2t.net/ark:/99166/w6jj2sk6">Deyo
+      family</famname>
+      <subject authfilenumber="sh85062809" source="lcsh"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/subjects/sh85062809">
+      Huguenots</subject>
+      <geogname source="lcnaf" authfilenumber="n80159065"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/names/n80159065">
+      New Paltz (N.Y.)</geogname>
+    </controlaccess>
+    <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+    xlink:type="simple"
+    xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/Deyo%20Family%20Papers%20(1675-1870)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/ad/asc"
+    xlink:title="Deyo Family Papers in New York Heritage" />
+    <processinfo>
+      <p>Special thanks to Deyo Family Association President Esther
+      Aldridge for her help in processing the collection.</p>
+    </processinfo>
+    <acqinfo>
+      <p>The papers were donated to Historic Huguenot Street in
+      1960 by Miss Sarah E. Deyo.</p>
+    </acqinfo>
+    <altformavail>
+      <p>Portions of the 
+      <extref href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/Deyo%20Family%20Papers%20(1675-1870)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/ad/asc">
+      Deyo family papers</extref>have been digitized as part of the
+      <extref href="https://nyheritage.org/collections/new-paltz-historic-documents">
+      New Paltz Historic Documents Project.</extref></p>
+    </altformavail>
+    <relatedmaterial>
+      <p>In addition to this collection, Historic Huguenot Street
+      also maintains four other collections of papers pertaining to
+      the Deyo family. They include the Mary Deyo Papers (ca.
+      1850-1932), Jessie B. VanWagenen Deyo Papers (1889-1929),
+      John Winfield Deyo Collection (1795-1906), and the William S.
+      Deyoe Papers (1892-1972). Researchers may also want to
+      consult the Historic Huguenot Street Bible and Religious Book
+      Collection and Historic Huguenot Street Ciphering Book
+      Collection, both of which include several items with Deyo
+      family history.</p>
+    </relatedmaterial>
+    <dsc>
+      <c id="c-2-1" level="series">
+        <did>
+          <unittitle>Estate and Legal Papers</unittitle>
+          <unitdate type="inclusive" normal="1703/1870">
+          1703-1870</unitdate>
+          <container type="Box">1 OVERSIZE</container>
+          <physdesc>
+            <extent>4 folders</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Papers include wills, deeds, quit-claim deeds and
+          mortgages pertaining to properties in New Paltz, New
+          York, owned by various members of the Deyo Family such as
+          Pierre (A-2), Abraham (B-1, C-1, D-1, E-1 and E-257),
+          Benjamin (C-15), Philip (D-7) and William (D-9), although
+          others are included as well. The bulk of the records date
+          from the late eighteenth and early nineteenth centuries.
+          Papers are filed chronologically.</p>
+        </scopecontent>
+      </c>
+      <c id="c-3-1" level="series">
+        <did>
+          <unittitle>Financial Papers</unittitle>
+          <unitdate type="inclusive" normal="1681/1870">
+          1681-1870</unitdate>
+        </did>
+        <scopecontent>
+          <p>Includes bills, receipts, notes, bonds, inventories
+          and an account book concerning the estate of William Deyo
+          D-9. Many of the early financial records (1680-1775) are
+          in French and Dutch as well as English. The papers
+          chiefly document transactions involving taxes, domestic
+          goods, livestock, church fees, and to a lesser extent,
+          labor and slavery. The folders are ordered
+          alphabetically; within the folder, the papers are filed
+          chronologically.&#160;</p>
+        </scopecontent>
+        <c id="c-4-2" level="file">
+          <did>
+            <unittitle>Bills and Receipts</unittitle>
+            <unitdate type="inclusive" normal="1681/1870">
+            1681-1870</unitdate>
+            <container type="Box">2</container>
+            <physdesc>
+              <extent>4 folders</extent>
+            </physdesc>
+          </did>
+        </c>
+        <c id="c-5-2" level="file">
+          <did>
+            <unittitle>Miscellaneou Legal and Financial
+            Papers</unittitle>
+            <unitdate type="inclusive" normal="1742/1870, undated">
+            1742-1870, undated</unitdate>
+            <container type="Box">2</container>
+          </did>
+          <scopecontent>
+            <p>Inventories, Church pew subscriptions, Farmer’s
+            income form, etc.</p>
+          </scopecontent>
+        </c>
+      </c>
+      <c id="c-6-1" level="series">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+          <unitdate type="inclusive" normal="1675/1870">
+          1675-1870</unitdate>
+        </did>
+        <scopecontent>
+          <p>Contains a marriage certificate of Pierre Deyo and
+          Agatha Nicken in Mutterstadt, Germany (1675), handwritten
+          copies of slave purchases dating from 1680 and 1694
+          (referring to receipts in Series 2), a military
+          appointment of Jacob Deyo to Colonel of the 92nd Regiment
+          of Infantry of New York State (1816), a certificate of
+          appointment of Theodore Deyo to Postmaster of New Paltz
+          in 1870, and an 1878 diploma from the New Paltz Academy
+          of Gertrude Deyo."</p>
+        </scopecontent>
+        <c id="c-7-2" level="file">
+          <did>
+            <unittitle>Appointment, Jacob Deyo to Colonel of the
+            92nd Regiment of Infantry of New York State</unittitle>
+            <unitdate type="inclusive" normal="1816">
+            1816</unitdate>
+            <container type="Box">1 OVERSIZE</container>
+          </did>
+        </c>
+        <c id="c-8-2" level="file">
+          <did>
+            <unittitle>Appointment, Theodore Deyo to Postmaster at
+            New Paltz</unittitle>
+            <unitdate type="inclusive" normal="1870">
+            1870</unitdate>
+            <container type="Box">1 OVERSIZE</container>
+          </did>
+        </c>
+        <c id="c-9-2" level="file">
+          <did>
+            <unittitle>Diploma, Gertrude Deyo, from New Paltz
+            Academy</unittitle>
+            <unitdate type="inclusive" normal="1878">
+            1878</unitdate>
+            <container type="Box">1 OVERSIZE</container>
+          </did>
+        </c>
+        <c id="c-10-2" level="file">
+          <did>
+            <unittitle>"Marriage Certificate," Pierre Deyo and
+            Agatha Nicken (1675 Mutterstadt, Germany)</unittitle>
+            <unitdate type="inclusive" normal="1675">
+            1675</unitdate>
+            <container type="Box">2</container>
+          </did>
+        </c>
+        <c id="c-11-2" level="file">
+          <did>
+            <unittitle>Slave Purchases, Christian and Peter Doyau
+            A-2 (1680, 1694) - Handwritten Copies</unittitle>
+            <unitdate type="inclusive" normal="1680">
+            1680</unitdate>
+            <unitdate type="inclusive" normal="1694">
+            1694</unitdate>
+            <container type="Box">2</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,209 @@
+<?xml-stylesheet type="text/xsl" href="/ead_print.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_4501</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Ayres Family Letters</titleproper>
+        <author>Eric Roth</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2016-07-01</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>Historic Huguenot Street</addressline>
+          <addressline>88 Huguenot St</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid created with EADitor by user
+      nynephhs.</creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Ayres Family Letters</unittitle>
+      <unitid></unitid>
+      <origination>
+        <famname source="local">Ayers Family</famname>
+      </origination>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <abstract>Letters from various Ayres family members from
+      Libertyville, NY. The collection primarily contains letters
+      written by James and Alexander Ayres during the Civil
+      War.</abstract>
+      <unitdate type="inclusive" normal="1839/1900">1839 -
+      1900</unitdate>
+      <repository>
+        <address>
+          <addressline>New York</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>Unrestricted</p>
+    </accessrestrict>
+    <userestrict>
+      <p>User is responsible for copyright permissions. Please
+      contact the library and archives at
+      library@huguenotstreet.org</p>
+    </userestrict>
+    <bioghist>
+      <p>James and Alexander are the sons of Philip Ayres and Sarah
+      Ann Requa. Philip and Sarah married in the Guilford Church on
+      December 12, 1839. Sarah was the daughter of Gilbert Kipp
+      Requa and Elizabeth Woolsey.</p>
+      <p>The Ayres family can be found in the 1850 United States
+      Census. Philip Ayres, a 30-year-old carpenter lived in New
+      Paltz with his wife, 29-year-old Sarah D. Ayres, three
+      children, James N. (aged 9), Alexander (aged 7), and Albert
+      (aged 1). Also listed is Elizabeth Requa, who is Sarah’s
+      mother. Philip died sometime between 1852 and 1855. The New
+      York State Census of 1855 lists Sarah A. Ayres as a 36
+      year-old widow, working as a ‘tailoress’ in the town Lloyd,
+      with two sons, Albert and Phillip. Alexander Ayres, aged 11,
+      is living in the household of John and Hanna B. Requa in the
+      town of Gardiner. Sarah married John Eyett by 1859, who James
+      addresses letters to at this time. In the 1865 Census, Sarah
+      and John both claimed to have married twice, Sarah has
+      claimed to have 10 children; this likely includes John’s
+      children from his first marriage.</p>
+      <p>James Ayres moved to Carroll County, Illinois and Solen,
+      Ohio by 1859. He joined Company F of the 52nd Illinois
+      Infantry in 1861, was stationed at “Camp Sampson” and Cairo,
+      Illinois, participated in the Battle of Corinth and the
+      Battle of Pittsburgh, and died on October 19, aged 21.</p>
+      <p>Alexander Ayres enlisted with Company I of the 2nd U.S.
+      Infantry in Kingston, NY, was primarily stationed near
+      Washington D.C., and died in July 1863, aged 19.</p>
+      <p>James and Alexander Ayres are the sons of Philip Ayres and
+      Sarah Ann Requa. They had a brother, Albert, born in
+      approximately 1849. Philip died sometime between 1850 and
+      1855. Sarah married John Eyett by 1859. Sarah was the
+      daughter of Gilbert Kipp Requa and Elizabeth Woolsey, born
+      1819 and died in 1892.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The earliest letters predate the Civil War. These include
+      two letters between Philip Ayres of Libertyville (town of New
+      Paltz), Ulster County, New York and Thomas Requa of New York,
+      New York, reminiscing about childhood in Libertyville, family
+      news, the weather, life in general, and steamboat travel to
+      New Orleans on a ship named “Manchester.” Another early
+      letter, probably dating from 1839, is addressed to Miss Sarah
+      Anne Requa of Libertyville, care of Moses Wolsey (Woolsey)
+      and discusses family news and visits.</p>
+      <p>The bulk of the collection consists of letters dated from
+      1859 to 1864 and relate to James H. Ayres and Alexander
+      Ayres. Most of these letters were written to and from their
+      parents back home during their military careers, and describe
+      various aspects of camp life, battles, hospital treatment,
+      scenery, and the weather.</p>
+      <p>James H. Ayres earlier letters are from his time in
+      Carroll County, Illinois, and Solen, Ohio discussing work
+      prospects in civil engineering and the ‘good country’ in
+      Ohio. In 1861 James writes about enlisting in the Union Army
+      and relocating with his regiment to the Chicago area. At this
+      point, he is optimistic and enthusiastic about the war and
+      military service, remarking about his clothes and the ‘good
+      spirits’ of the regiment. In early 1862, James H. Ayres
+      writes of his changing opinions about war after viewing
+      battles, prisoner exchanges, and soldier burials, which he
+      describes in some detail. On March 26, he writes that “this
+      war will be a lesson to A great many boys me for one included
+      if I get out of this alive I will know better another time.”
+      In the spring, James writes that he is growing weary of the
+      war, and has contracted the measles, which has allowed him to
+      temporarily leave the unit on a furlough. The following
+      summer, James writes home discourage his younger brother
+      Alexander from enlisting in the army, prior to Alexander’s
+      enlistment. On September 23, James writes from Camp
+      Montgomery near Corrinth and says that “we are having verry
+      good time now, but it rains nearly all the time, this dose
+      not hurt us we are tough and constant.” The next letter
+      written home comes from a family friend near Argo named
+      William H. Balcom informing the parents about the James’
+      death on October 19th from wounds he that he received on
+      October 4th in the Battle of Corrinth. Several more letters
+      from Balcom discuss his efforts to send James’ belongings and
+      the ‘fatal bullet’ back home, to secure the wages owed to
+      James’ family, and to find out more details the soldier’s
+      death. Another letter sent to the parents from March 31, 1863
+      includes a badly faded albumen print photograph of James H.
+      Ayres’ grave taken by the surviving members of his
+      company.</p>
+      <p>In addition to corresponding with his parents, there are
+      also letters between James and friends and family members
+      serving in the army elsewhere. Letters written to James from
+      Peter Holman describe the Battle of Pittsburgh and other
+      friends and family in the service, including James Holman,
+      James Hall, Delancey Kingon, Joseph Wallace, and Captain S.S.
+      Dunn. During the Spring and Summer of 1862.</p>
+      <p>The letters of Alexander Ayres were written during the
+      period of November 1862 to May 1863. Most of these letters
+      were written from New York City and Long Island where
+      Alexander was stationed from late November through February,
+      although there are a few letters written from Kingston in
+      early November 1862 and three letters written from Falmouth
+      near Washington D.C. in March and April 1863. The subjects
+      covered in these letters focus on Alexander’s impressions of
+      camp life, mostly relating to food, drilling, the weather, a
+      stay in a hospital on 319 Broadway in New York after
+      contracting the measles, a riot in New York, Central Park,
+      members of his regiment that became shipwrecked off Florida
+      on their way to New Orleans, and skirmishes near Washington
+      D.C. Alexander also briefly makes reference to working “in
+      the mercantile business” for DuBois LeFevre, a hotel in
+      Kingston owned by Nathaniel LeFevre, and a store owned by
+      Josiah DuBois.</p>
+      <p>In August, a New York attorney named Adolphus Benedict
+      writes to Alexander’s parents that he is “anxious about
+      Alexander.” There are no further letters from or concerning
+      Alexander, but it is known that he was killed in July.
+      However, three more letters written by Benedict while acting
+      under power of attorney discuss a lawsuit involving the
+      Trinity Corporation and heirs of John Requa in 1866 and 1868.
+      There are two other letters in the collection, one written in
+      September 1871 from Sarah’s sister, signed A. Church, which
+      is most likely her sister Angelina, and another written in
+      1900 from Albert to his brother, George, from the town of
+      Highland.</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <famname source="local">Ayers Family</famname>
+      <subject source="local">Civil War</subject>
+    </controlaccess>
+    <dsc>
+      <c id="c-1-1" level="file">
+        <did>
+          <unittitle>Correspondence (1839?-1861 and
+          undated)</unittitle>
+        </did>
+      </c>
+      <c id="c-2-1" level="file">
+        <did>
+          <unittitle>Correspondence (1862)</unittitle>
+        </did>
+      </c>
+      <c id="c-3-1" level="file">
+        <did>
+          <unittitle>Correspondence (1863-1900
+          scattered)</unittitle>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

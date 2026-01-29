@@ -1,0 +1,548 @@
+<?xml version="1.0"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_5122</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Roelof J. and Ezekiel Elting Family Papers
+        (1703-1928)</titleproper>
+        <author>Eric Roth 1/20/1999. Last revised 7/5/2005</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2022-10-19</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Carolyn Tornatore</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: a Content
+      Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Roelof J. and Ezekiel Elting Family
+      Papers</unittitle>
+      <unitid></unitid>
+      <origination label="Creator">
+        <persname source="local">DuBois, Roelof J.</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="local">DuBois, Ezekiel</persname>
+      </origination>
+      <physdesc>
+        <extent>1.8 cubic feet</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate type="inclusive" normal="1703/1928">
+      1703-1928</unitdate>
+      <repository>
+        <corpname>Historic Huguenot Street</corpname>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>Access to the Elting Family Papers is unrestricted.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Request for permission to publish materials from these
+      records should be discussed with the Archivist and Director
+      of Historic Huguenot Street.</p>
+    </userestrict>
+    <bioghist>
+      <p>The papers primarily document the lives of three
+      individuals spanning three generations of the Elting family
+      in New Paltz, New York: Roelof Josiah Elting C-19
+      (1737-1795), his son, Ezekiel Elting D-36 (1763-1842) and his
+      son, Jacob Elting E-56 (1803-1889).</p>
+      <p>Roelof Josiah Elting C-19 was born to Captain Josia Elting
+      and Magdalene DuBois in 1737. In 1760 he married Mary Louw in
+      1760 at Kingston and had eleven children. Roelof occupied the
+      Bevier-Elting House (now owned and operated as a museum by
+      Historic Huguenot Street) during the Revolutionary Period,
+      where he kept a store, that was apparently started by his
+      father, Josiah. Roelof sided with the Conferentia party
+      during the Coetus-Conferentia controversy in the Dutch
+      Reformed Church during the 1750’s and 1760’s. In 1766,
+      Roelof, along with members of the DuBois, Low, Van Wagnenen,
+      Van Vliet, Ean and Auchmody families, left the Dutch reformed
+      Church at New Paltz and organized the Conferentia Church, or
+      “Owl Church,” on Libertyville Road in New Paltz. The church
+      disbanded and rejoined the Reformed Church in 1774.</p>
+      <p>Roelof J. Elting was imprisoned as a suspected Tory during
+      the Revolutionary War, despite the fact that he signed the
+      Articles of Association in 1775 (Sylvester). Along with his
+      brother Solomon and friend Cadwallader Colden, Jr., Roelof
+      was banished to British-occupied New York. Despite these
+      problems, Roelof still managed to gain enough respect in the
+      community to be elected to two municipal offices:
+      Superintendent of Highways to the Hudson River (1772-1773)
+      and Overseer of the Poor (1790). Roelof also served as one of
+      the New Paltz Twelve Men for the share of Louis DuBois from
+      1791 to 1795. He died in 1795.</p>
+      <p>Roelof’s second son Ezekiel Elting D-39 was born on Oct.
+      9, 1763, and in 1787 married Magdalene Elting D-35
+      (1769-1831), daughter of Abraham Elting and Dina DuBois.
+      Ezekiel and Magdalene bore ten children. Ezekiel inherited
+      the family homestead from his father and continued the family
+      business. According to Heidgerd, “He was probably the most
+      important business man in the community. He conducted a
+      mercantile establishment in the house he built in 1799 on
+      Huguenot Street, now known as the LeFevre House,” (and also
+      invariably as the “1799 House” and “Ezekiel Elting House”).
+      This house is now owned and operated as a historic house
+      museum by Historic Huguenot Street. In 1800 he became a
+      member by confession of the Reformed Dutch Church of New
+      Paltz and served as Deacon from 1802-1803 and was elected
+      Elder in 1812. (RDC, p. 70). Active in local politics,
+      Ezekiel served as one of the New Paltz “Twelve Men” for the
+      patentee’s share of Louis DuBois (1797, 1801-1824), and as
+      Overseer of Highways (1793-1795).</p>
+      <p>In 1822 Ezekiel entered into a partnership with his
+      brother-in-law Peter LeFevre to build a grist mill, sawmill,
+      fulling mill and woolen factory at Dashville Falls in the
+      town of Esopus. Ezekiel also engaged in the manufacture of
+      potash and owned and operated a farm. According to Sylvester,
+      “He was a man of correct business habits, of strict
+      integrity, always ready to lend a helping hand to worth young
+      men, but most intolerant of wrong-doing in any one. A man of
+      excellent judgement, his advice was often sought by his
+      neighbors. He was a Federalist in politics.” Ezekiel Elting
+      died on December 12, 1842.</p>
+      <p>Ezekiel’s son, Jacob Elting E-56 was born on Mar. 27, 1803
+      and in 1827 married Gitty LeFevre (1805-1841), daughter of
+      Simon M. LeFevre and Elizabeth Deyo, by whom he had five
+      children. After Gitty’s death in 1841, he married Elizabeth
+      LeFevre (1805-1886) daughter of Peter LeFevre Jr. and
+      Magdalene Elting, and had three children. As a boy Jacob
+      attended district school at New Paltz ,and one term at the
+      Esopus select school. “In 1839 Mr. Elting purchased of Elida
+      Watkins the farm in Lloyd formerly owned by his uncle
+      Solomon, and here he spent the latter half of his life.” Like
+      his father, Jacob was a member of the Reformed Dutch Church
+      of New Paltz, where he served as Elder. In politics he was a
+      Republican. (Syl. p. 130a)</p>
+      <p>Jacob also established the Jacob Elting Burying Ground
+      Association in 1875 for the purpose of operating a small
+      private family cemetery on Huguenot Street in New Paltz. The
+      organization is still presently active. Jacob Elting died on
+      August 12, 1889.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The papers are organized into two series: 1) Account
+      Books, and 2) Papers, which include correspondence, estate
+      and legal papers, financial papers, genealogical research
+      materials and miscellaneous papers. The bulk of the
+      collection falls between 1768 and 1843.</p>
+      <p>The records of major interest are found in the
+      correspondence files. The existence of letters prior to 1800
+      in Ulster County is quite rare and the letters of Roelof J.
+      and Ezekiel Elting and Andries, Bryant and Simon DeWitt
+      provide an excellent source of information on life in Ulster
+      County during the late eighteenth and early nineteenth
+      centuries. Letters to and from Roelof Elting discuss a
+      lawsuit with Benjamin Decker; various notes and bonds against
+      the Eltings; slaves and goods received from Lt. Col. Burr
+      (1778); local religious, political and family matters; a sale
+      of property in Chenango, Broome County (undated); shipping
+      flaxseed and other domestic goods to merchants in New York
+      City, and the events surrounding several boundary disputes
+      with the New Paltz Patent in the 1790’s. Of specific interest
+      is a letter from Johannes Snyder to the Friends of
+      Constitutional Liberty Committee (Roelof J. Elting, Dirck
+      Wynkoop, David Hasbrouck, Philip Elting and John Dumont)
+      concerning a meeting at R. J. Elting’s house “to Collect
+      their Sense on the late daring attack on the Rights of
+      Suffrage by the Majority of Conversers.”</p>
+      <p>The correspondence of the DeWitt family includes a letter
+      from Bryant DeWitt to his father Andries DeWitt concerning
+      Gen. Scott’s military expeditions against Native Americans in
+      Kentucky (1792); several letters concerning the death of
+      Nathaniel Bevier in 1795; a letter to Johannes Hoornbeck of
+      Wawarsing from A. DeWitt concerning a bond to Nathan Vernooy
+      (1797); letter to Andries DeWitt discussing relations between
+      the United States and France (1798); and letters describing
+      the work of physicians in Albany, yellow fever in
+      Philadelphia, local politics and the media. And one undated
+      letter (ca. 1800) gives descriptions and opinions of
+      alterations being made to a house. Other correspondents
+      include Henricus Schoonmaker, Cornelius Elting, Elting
+      Varick, Johannes Jansen, Elizabeth DeWitt and David
+      Graham.</p>
+      <p>Another batch of letters written to Jacob Elting, while he
+      served as Elder of Reformed Dutch Church of New Paltz. These
+      letters document the consistory’s efforts to acquire a new
+      pastor in 1844. These include a letter of recommendation of
+      Rev. Ransford Wells of Troy, New York, and letters from Jacob
+      A. Lansing; Ch. Whitehead, pastor of the Ref. Dutch Church of
+      Walden; Henry Ostrander, Catherine Jansen, and William A.
+      Cornell. One letter concerns the plans of the Executive
+      Committee of the Ulster County Agricultural Society to
+      inspect local farms (1844), and another letter from 1864
+      describes local efforts to send gift boxes to the 156th
+      Regiment during the Civil War.</p>
+      <p>Also of interest in this collection are the several
+      account books kept by Roelof and Ezekiel Elting. The accounts
+      books of Roelof Elting date from 1768 to 1791 and primarily
+      relate to the family store located in the Bevier-Elting House
+      on Huguenot Street in New Paltz. These books document
+      transactions involving the purchase and sale of domestic
+      goods, foodstuffs, kitchen supplies, textiles and clothing,
+      hardware, and specialty items such as tobacco, snuff, writing
+      supplies, and other items. The accounts in these books are
+      fairly scattered with no apparent organizational scheme.
+      Among these five account books are two books containing
+      entries deserving specific mention. One appears to be a store
+      inventory from 1768 listing all the items in the store,
+      although the prices are not listed. Another book contains
+      journal-style entries from 1776 and 1777 written by Roelof
+      Elting concerning his imprisonment as a suspected British
+      sympathizer during the Revolutionary War.</p>
+      <p>Four account books kept by Ezekiel Elting span the years
+      from 1821 to 1845 and mainly relate to mill and farm
+      expenses. The majority of the entries concern the purchase
+      and sale of grains such as rye, corn, buckwheat, and wheat.
+      Also present, however, are numerous entries documenting
+      payments to laborers for sawing and chopping wood, carding
+      wool, harvesting crops, and various other tasks. A name index
+      at the beginning of each book serves as the main point of
+      access to individual accounts. Another account book kept by
+      Ezekiel Elting and his brother can be found in a collection
+      of papers located at the Haviland-Heidgerd Historical
+      Collection at the Elting Memorial Library in New Paltz. A
+      brief description of this collection is provided below.</p>
+      <p>The estate papers mainly consist of bonds, deeds,
+      mortgages, property descriptions, probate records, court
+      papers, and agreements concerning properties in Ulster County
+      (particularly New Paltz and Lloyd) owned by the Elting family
+      in the eighteenth and nineteenth centuries. Of interest are
+      deeds of the Hasbrouck, Bevier, Deyo, LeFevre, Donaldson, and
+      Roelof and Josiah and Noah Elting families (1703-1767);
+      estate inventories of Roelof J. Elting (1773, 1795) , Edmond
+      Turner (undated), Elizabeth Schutt (1790), Nathaniel Bevier
+      (1796), Mary Elting (1801); Mariah(?) DuBois (1839) and wills
+      and probate records of Josiah Elting (1784) and Ezekiel
+      Elting (1843). Several of the legal papers from the later
+      nineteenth century concern the New Paltz Turnpike.</p>
+      <p>Also of note are undated field books to tracts and lots in
+      the New Paltz Patent; undated copybook of Simeon DeWitt,
+      Surveyor General of New York State; a receipt and agreement
+      concerning the Reformed Church of New Paltz (1774-1790);
+      register of poor persons applying for relief (1790); and
+      account books, one of which contains entries written by
+      Roelof Josiah Elting describing his imprisonment and
+      probation during the Revolutionary War. There is also a
+      document dating from 1810 drawn up by “The Society of Negroes
+      Unsettled” of which Ezekiel Elting was elected foreman,
+      provides evidence of attempts by the slave owners in New
+      Paltz to solve the problem of runaway slaves. This document
+      also lists several slaves who ran away from their owners. An
+      attached document contains a list of persons and their
+      supposed whereabouts. It is uncertain if these persons are
+      runaway slaves or free blacks who may provide refuge to the
+      runaways. Also contained in the collection are albumen print
+      photographs from the mid-late 19th century of Clarence
+      Elting, Maggie Peters, Myron and Gertrude Wurtz, and one
+      tintype of Esther Elting. Two other photographs show the
+      Mohonk Mountain House across Lake Mohonk and an unidentified
+      Federal-style brick house with 1st and 2nd story porches that
+      was presumably the residence of Clarence Elting.</p>
+      <p>The overall condition of the papers is good and the
+      handwriting legible. Some documents show signs of damage from
+      tearing or fading. Signatures from several of the legal
+      papers dating from the 18th century have at some time been
+      removed.</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <persname source="local">Elting, Roelof J.</persname>
+      <persname source="local">Elting, Ezekiel</persname>
+      <famname source="snac" authfilenumber="w6jn1h6m"
+      xlink:type="locator"
+      xlink:href="http://n2t.net/ark:/99166/w6jn1h6m">Elting
+      family</famname>
+      <subject authfilenumber="sh85062809" source="lcsh"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/subjects/sh85062809">
+      Huguenots</subject>
+      <geogname source="lcnaf" authfilenumber="n80159065"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/names/n80159065">
+      New Paltz (N.Y.)</geogname>
+    </controlaccess>
+    <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+    xlink:type="simple"
+    xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/Elting%2C%20Roelof%20J.%20and%20Ezekiel%2C%20Family%20Papers%20(1703-1928)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order"
+    xlink:title="Roelof J. and Ezekiel Elting Family Papers in New York Heritage" />
+    <acqinfo>
+      <p>The papers were donated to Historic Huguenot Street by
+      Jacob Elting. Date is unknown.</p>
+    </acqinfo>
+    <altformavail>
+      <p>Portions of the 
+      <extref href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/Elting%2C%20Roelof%20J.%20and%20Ezekiel%2C%20Family%20Papers%20(1703-1928)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order">
+      Roelof J. and Ezekiel Elting family papers</extref>have been
+      digitized as part of the 
+      <extref href="https://nyheritage.org/collections/new-paltz-historic-documents">
+      New Paltz Historic Documents Project.</extref></p>
+    </altformavail>
+    <relatedmaterial>
+      <p>Other collections of New Paltz historic papers providing
+      further information of the Elting and collateral families and
+      relative subjects include the LeFevre Family Papers: “The
+      Bontecoe LeFevre’s” (1703-1937), the Locust Lawn Collection
+      (1672-1969), the Jacob Elting Burying Ground Association
+      Records (1875-1998) - contains some access restrictions, and
+      several collections of DuBois and Hasbrouck family papers in
+      the Historic Huguenot Street Archives. A Bible that belonged
+      to Andries DeWitt is housed in the Historic Huguenot Street
+      Bible Collection, Bible #41. The Elting Family Papers
+      (1752-1927) located at the Elting Memorial Library
+      Haviland-Heidgerd Historical Collection in New Paltz contains
+      papers relative to this family, including an account book
+      (1798-1799) and estate inventory (1843) of Ezekiel Elting;
+      letters primarily of Ann Elting and Cornelius C. Elting
+      (1837-1874); a military exemption of Josiah Elting (1864);
+      marriage certificates of various Elting family members; and
+      genealogical research materials.</p>
+    </relatedmaterial>
+    <dsc>
+      <c id="c-2-1" level="series">
+        <did>
+          <unittitle>Account Books (1767-1837)</unittitle>
+          <unitdate type="inclusive" normal="1767/1873">
+          1767-1873</unitdate>
+          <physdesc>
+            <extent>0.5 cubic feet</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Contains nine account books kept by Roelof Josiah
+          Elting and his son Ezekiel Elting. The five small account
+          books of Roelof Elting pertain to items bought and sold
+          at the family store, church expenses and other accounts
+          owed to him by those with whom he did business. One
+          account book describes his imprisonment and probation
+          during the Revolutionary War. Accounts in these books are
+          generally sporadic and may have supplemented more
+          complete daybooks or yearly ledgers. The four account
+          books of Ezekiel Elting are legal size, bound ledgers,
+          which contain personal name indexes; one account book,
+          (1827-1833) contains no index, despite following the same
+          system as the others. The transactions generally pertain
+          to the purchases and sales of domestic goods such as
+          wheat, corn, liquor, leather, etc.; and also payments for
+          labor. This series also includes one folder of loose
+          papers that may have come from another account book, and
+          one name index to several unidentified account books.</p>
+        </scopecontent>
+        <c id="c-3-2" level="file">
+          <did>
+            <unittitle>Roelof J. Elting (1767-1791)</unittitle>
+            <unitdate type="inclusive" normal="1767/1791">
+            1767-1791</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+        <c id="c-4-2" level="file">
+          <did>
+            <unittitle>Ezekiel Elting (1823-1834)</unittitle>
+            <unitdate type="inclusive" normal="1823/1834">
+            1823-1834</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+        <c id="c-5-2" level="file">
+          <did>
+            <unittitle>Ezekiel Elting (1826-1837)</unittitle>
+            <unitdate type="inclusive" normal="1826/1837">
+            1826-1837</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+        <c id="c-6-2" level="file">
+          <did>
+            <unittitle>Ezekiel Elting (1827-1833)</unittitle>
+            <unitdate type="inclusive" normal="1827/1833">
+            1827-1833</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+        <c id="c-7-2" level="file">
+          <did>
+            <unittitle>Ezekiel Elting (1834-1837)</unittitle>
+            <unitdate type="inclusive" normal="1834/1837">
+            1834-1837</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="c-8-1" level="series">
+        <did>
+          <unittitle>Papers (1703-1928)</unittitle>
+          <unitdate type="inclusive" normal="1703/1928">
+          1703-1928</unitdate>
+          <physdesc>
+            <extent>1 cubic feet</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series includes letters, deeds, wills, survey
+          maps, inventories, bills, receipts, photographs,
+          postcards, newspaper clippings, poetry and memorabilia.
+          Papers are filed alphabetically by format
+          (correspondence, estate and legal, financial, genealogy,
+          miscellaneous) and thereunder chronologically. Oversize
+          documents are housed separately in Box 4.</p>
+        </scopecontent>
+        <c id="c-9-2" level="file">
+          <did>
+            <unittitle>Correspondence (1750-1870
+            scattered)</unittitle>
+            <unitdate type="inclusive" normal="1750/1870">
+            1750-1870</unitdate>
+            <container type="Box">2</container>
+          </did>
+        </c>
+        <c id="c-10-2" level="file">
+          <did>
+            <unittitle>Estate and Legal Papers (1769-1789 and
+            undated)</unittitle>
+            <unitdate type="inclusive" normal="1769/1789">
+            1769-1789</unitdate>
+            <container type="Box">2</container>
+          </did>
+        </c>
+        <c id="c-11-2" level="file">
+          <did>
+            <unittitle>Estate and Legal Papers (1790-1821 and
+            undated)</unittitle>
+            <unitdate type="inclusive" normal="1790/1821">
+            1790-1821</unitdate>
+            <container type="Box">2</container>
+          </did>
+        </c>
+        <c id="c-12-2" level="file">
+          <did>
+            <unittitle>Estate and Legal Papers
+            (1827-1901)</unittitle>
+            <unitdate type="inclusive" normal="1827/1901">
+            1827-1901</unitdate>
+            <container type="Box">2</container>
+          </did>
+        </c>
+        <c id="c-13-2" level="file">
+          <did>
+            <unittitle>Financial Papers (1770-1844 and undated,
+            scattered)</unittitle>
+            <unitdate type="inclusive" normal="1770/1844">
+            1770-1844</unitdate>
+            <container type="Box">3</container>
+          </did>
+        </c>
+        <c id="c-14-2" level="file">
+          <did>
+            <unittitle>Financial Papers (1773-1870 and undated,
+            scattered) Receipts</unittitle>
+            <unitdate type="inclusive" normal="1773/1870">
+            1773-1870</unitdate>
+            <container type="Box">3</container>
+          </did>
+        </c>
+        <c id="c-15-2" level="file">
+          <did>
+            <unittitle>Genealogical Notes of the Elting and LeFevre
+            Families (1908 and undated)</unittitle>
+            <unitdate type="inclusive" normal="1908">
+            1908</unitdate>
+            <container type="Box">3</container>
+          </did>
+        </c>
+        <c id="c-16-2" level="file">
+          <did>
+            <unittitle>Miscellaneous (ca. 1800-1928)</unittitle>
+            <unitdate type="inclusive" normal="1800/1928">
+            1800-1928</unitdate>
+            <container type="Box">3</container>
+          </did>
+        </c>
+        <c id="c-17-2" level="file">
+          <did>
+            <unittitle>Photographs (mid-late 19th
+            century)</unittitle>
+            <unitdate type="inclusive" normal="1850/1899">
+            1850-1899</unitdate>
+            <container type="Box">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="c-18-1" level="series">
+        <did>
+          <unittitle>Papers (1703-1928) OVERSIZE</unittitle>
+          <unitdate type="inclusive" normal="1703/1928">
+          1703-1928</unitdate>
+          <container type="Box">4</container>
+        </did>
+        <c id="c-19-2" level="file">
+          <did>
+            <unittitle>Estate and Legal Papers
+            (1703-1767)</unittitle>
+            <unitdate type="inclusive" normal="1703/1767">
+            1703-1767</unitdate>
+            <container type="Box">4</container>
+          </did>
+        </c>
+        <c id="c-20-2" level="file">
+          <did>
+            <unittitle>Estate and Legal Papers
+            (1778-1798)</unittitle>
+            <unitdate type="inclusive" normal="1778/1798">
+            1778-1798</unitdate>
+            <container type="Box">4</container>
+          </did>
+        </c>
+        <c id="c-21-2" level="file">
+          <did>
+            <unittitle>Estate and Legal Papers
+            (1800-1899)</unittitle>
+            <unitdate type="inclusive" normal="1800/1899">
+            1800-1899</unitdate>
+            <container type="Box">4</container>
+          </did>
+        </c>
+        <c id="c-22-2" level="file">
+          <did>
+            <unittitle>Estate and Legal Papers (1709 and undated)
+            Property Survey Maps</unittitle>
+            <unitdate type="inclusive" normal="1709, undated">1709,
+            undated</unitdate>
+            <container type="Box">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,235 @@
+<?xml-stylesheet type="text/xsl" href="/ead_print.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_5124</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Wilhelmus and Moses Hasbrouck Family Papers
+        (1753-1897)</titleproper>
+        <author>Eric Roth 1/12/1999</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2022-10-19</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Carolyn Tornatore</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: a Content
+      Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Wilhelmus and Moses Hasbrouck Family
+      Papers</unittitle>
+      <unitid></unitid>
+      <origination label="Creator">
+        <persname source="local">Hasbrouck, Wilhelmus</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="local">Hasbrouck, Moses</persname>
+      </origination>
+      <physdesc>
+        <extent>0.25 cubic feet</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate type="inclusive" normal="1753/1897">
+      1753-1897</unitdate>
+      <repository>
+        <corpname>Historic Huguenot Street</corpname>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>Unrestricted.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Request for permission to publish materials from these
+      records should be discussed with the Archivist and Director
+      of Historic Huguenot Street.</p>
+    </userestrict>
+    <bioghist>
+      <p>Wilhelmus Hasbrouck (E-540) was born on February 2, 1775
+      to Jacob I. Hasbrouck and Sarah DuBois in Stone Ridge, New
+      York. On November 9, 1798 he married Agetta Freer of New
+      Paltz (1779-1834), daughter of Jonathan Freer and Margrietje
+      Deyo. Between 1799 and 1812, Wilhelmus and Agetta had seven
+      children: Margaret, Sarah, Maria, Jacob, Moses, Elisabeth and
+      Aaron.</p>
+      <p>Wilhelmus’ second son, Moses Hasbrouck (F-979), was born
+      on March 12, 1807 and baptized at New Paltz. On September 1,
+      1856 he married Sarah Maria Freer (1817-1856), daughter of
+      Hugo and Elizabeth Freer, and had two children: Sarah M. (b.
+      1854) and Jane E. (b. 1856). Moses later married second Lana
+      C. Sax (1823-1866) and third, Mary M. Perkins (1836-1875).
+      Moses Hasbrouck died on September 12, 1886 and is buried in
+      Saugerties, New York.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The papers primarily reflect the real estate and economic
+      transactions of Wilhelmus Hasbrouck, Moses Hasbrouck, and
+      Sarah M. (Freer) Hasbrouck, Johannes Freer, and Simon Deyo in
+      the towns of New Paltz, Hurley and Saugerties in Ulster
+      County, New York. Records include receipts, deeds, mortgages,
+      notes, bonds, wills, family records, maps, and photographs
+      from the Freer, Hasbrouck and Deyo families of New Paltz, New
+      York. Other names include Samuel Bevier, Johannes Blanshan,
+      Almond Canfield, Moses Cantine, John B. Davis, Jacob DeWitt,
+      Henrick Deyo, Johannes Deyo, Philip Deyo, Frederick de Zeng,
+      Stephen Eckert, Roelof and Ezekiel Elting, Wilhelmus Emerick,
+      Hugo Freer, David Freer, Joseph Gashiere, Abram Hasbrouck,
+      Jacob Hasbrouck, Hans Kierstead, Peter LeFevre, Mary Leggett,
+      Petrus Ostrander, William Peters, John E. Schoonmaker,
+      Zacharius Slater, Garrit Van Keuren, George Wirtz, and Moses
+      Yoeman.</p>
+      <p>Of note are several receipts of Johannis Freer in the
+      Dutch language (1754-1775); receipt for the sale of a slave
+      (1787); a document certifying that Moses Freer has received
+      standard equipment for his duty with Captain Brown’s Light
+      Company of Foot, dubbed the “Ulster Greys” (1833); will of
+      Johannes Freer (1796) and a letter to Nicholas Sickles from
+      William Cantine concerning a boundary dispute between
+      Wilhelmus Hasbrouck and “Judge Hasbrouck” (1843). Also of
+      particular interest are marriage certificates and family
+      records of the Deyo, Freer and Hasbrouck families in the late
+      nineteenth century, one of which includes photographs of
+      Simon R. Deyo and Sarah M. Hasbrouck, who were married in
+      1877 at the Reformed Church of the Clove in High Falls. One
+      document celebrating the birth of Elizabeth Hasbrouck in 1785
+      is somewhat unusual in that it contains a very decorative
+      picture of birds and flowers in several colors.</p>
+      <p>Throughout the collection, the run of the papers are
+      incomprehensive and inconsistent. The majority of the papers
+      date from the late eighteenth and early nineteenth centuries,
+      although the collection is most comprehensive from 1753-1797.
+      The papers are generally in fair to good condition, but some
+      of the deeds show signs of damage such as tearing and foxing,
+      and several of the marriage certificates and family records
+      are quite dirty. The collection also contains the family
+      Bible of Wilhelmus Hasbrouck, originally owned by Johannis
+      Freer (Bible #71), which forms part of Historic Huguenot
+      Street Bible Collection. This Bible includes family records
+      of the Wilhelmus Hasbrouck family. Transcriptions of the
+      family records are available. This collection was formerly
+      known as the Trautwein Collection.</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <persname source="local">Hasbrouck, Wilhelmus</persname>
+      <persname source="local">Hasbrouck, Moses</persname>
+      <subject authfilenumber="sh85062809" source="lcsh"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/subjects/sh85062809">
+      Huguenots</subject>
+      <geogname source="lcnaf" authfilenumber="n80159065"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/names/n80159065">
+      New Paltz (N.Y.)</geogname>
+    </controlaccess>
+    <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+    xlink:type="simple" xlink:href="" xlink:title="" />
+    <arrangement>
+      <p>The papers are organized into folders by type or size and
+      arranged chronologically.</p>
+    </arrangement>
+    <acqinfo>
+      <p>The papers were donated to Historic Huguenot Street by
+      Mildred Trautwein in September 1963.</p>
+    </acqinfo>
+    <altformavail>
+      <p>Portions of the 
+      <extref href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/Hasbrouck%2C%20Wilhelmus%2C%20Family%20Papers%20(1753-1879)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/ad/asc">
+      Wilhelmus and Moses Hasbrouck family papers</extref>have been
+      digitized as part of the 
+      <extref href="https://nyheritage.org/collections/new-paltz-historic-documents">
+      New Paltz Historic Documents Project.</extref></p>
+    </altformavail>
+    <otherfindaid>
+      <p>An item list with summaries of each document is also
+      available upon request.</p>
+    </otherfindaid>
+    <dsc>
+      <c id="c-2-1" level="file">
+        <did>
+          <unittitle>Estate and Legal Papers (1756,
+          1790-1877)</unittitle>
+          <unitdate type="inclusive" normal="1756">1756</unitdate>
+          <unitdate type="inclusive" normal="1790/1877">
+          1790-1877</unitdate>
+          <container type="Box">1</container>
+          <container type="Folder">1</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20028.000.001/order/dateor/ad/asc"
+          xlink:title="View this folder of items in New York Heritage" />
+        </did>
+      </c>
+      <c id="c-3-1" level="file">
+        <did>
+          <unittitle>Estate and Legal Papers (1753-1867),
+          oversized</unittitle>
+          <unitdate type="inclusive" normal="1753/1867">
+          1753-1867</unitdate>
+          <container type="Box">1:Folder@4</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20028.000.004/order/dateor/ad/asc"
+          xlink:title="View this folder of items in New York Heritage" />
+        </did>
+      </c>
+      <c id="c-4-1" level="file">
+        <did>
+          <unittitle>Memorabilia (1785-1879)</unittitle>
+          <unitdate type="inclusive" normal="1785/1879">
+          1785-1879</unitdate>
+          <container type="Box">1</container>
+          <container type="Folder">3</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20028.000.003/order/dateor/ad/asc"
+          xlink:title="View this folder of items in New York Heritage" />
+        </did>
+        <scopecontent>
+          <p>Marriage and birth certificates; family registers</p>
+        </scopecontent>
+      </c>
+      <c id="c-5-1" level="file">
+        <did>
+          <unittitle>Receipts (1754-1875)</unittitle>
+          <unitdate type="inclusive" normal="1754/1875">
+          1754-1875</unitdate>
+          <container type="Box">1</container>
+          <container type="Folder">2</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20028.000.002/order/dateor/ad/asc"
+          xlink:title="View this folder of items in New York Heritage" />
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

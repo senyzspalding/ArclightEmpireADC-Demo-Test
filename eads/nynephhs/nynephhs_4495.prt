@@ -1,0 +1,84 @@
+<?xml-stylesheet type="text/xsl" href="/ead_print.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_4495</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Atkins, David J.</titleproper>
+        <author></author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2021-02-26</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>Historic Huguenot Street</addressline>
+          <addressline>88 Huguenot St</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid created with EADitor by user
+      nynephhs.</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">David J. Atkins Civil War
+      Papers</unittitle>
+      <unitid></unitid>
+      <origination>
+        <persname source="local">Atkins, David J.</persname>
+      </origination>
+      <origination>
+        <persname source="local">Atkins, David J.</persname>
+      </origination>
+      <physdesc>
+        <extent>4 items</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <abstract>Military discharges, appointments, and returns of
+      David J. and Alfred Atkins.</abstract>
+      <unitdate type="inclusive" normal="1864/1877">1864 -
+      1877</unitdate>
+      <repository>
+        <corpname>Historic Huguenot Street</corpname>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+        <extptr xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:type="simple"
+        xlink:href="https://www.huguenotstreet.org/" />
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>Unrestricted</p>
+    </accessrestrict>
+    <userestrict>
+      <p>User is responsible for copyright permissions. Please
+      contact the library and archives at
+      library@huguenotstreet.org</p>
+    </userestrict>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <persname source="local">Atkins, David J.</persname>
+      <subject source="local">Civil War</subject>
+    </controlaccess>
+  </archdesc>
+</ead>

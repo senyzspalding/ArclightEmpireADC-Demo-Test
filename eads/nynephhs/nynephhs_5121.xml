@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_5121</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Josiah DuBois Family Papers
+        (1689-1864)</titleproper>
+        <author>Eric J. Roth 7/12/2004</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2022-10-19</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Carolyn Tornatore</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: a Content
+      Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Josiah DuBois Family
+      Papers</unittitle>
+      <unitid></unitid>
+      <origination label="Creator">
+        <famname source="local">Dubois family</famname>
+      </origination>
+      <physdesc>
+        <extent>0.75 cubic feet</extent>
+        <extent>2 boxes</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate type="inclusive" normal="1689/1864">
+      1689-1864</unitdate>
+      <repository>
+        <corpname>Historic Huguenot Street</corpname>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>Unrestricted.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Request for permission to publish materials from these
+      records should be discussed with the Archivist and Director
+      of Historic Huguenot Street.</p>
+    </userestrict>
+    <bioghist>
+      <p>Josiah DuBois E-572, was born on December 12, 1779 to
+      Cornelius DuBois and Gertrude Bruyn. He was baptized at the
+      New Paltz Reformed Church on January 3, 1782. On September
+      22, 1805, he married Elizabeth Hasbrouck (1789-1815),
+      daughter of Josiah Hasbrouck and Sarah Decker. The marriage
+      took place at the Reformed Dutch Church at Shawangunk, NY.
+      Josiah had two children by Elizabeth: Sarah and Pamelia.
+      After the death of Elizabeth in 1815, he married Catherine
+      Winfield (1789-1833), daughter of Dr. Elias Winfield of
+      Kingston. Josiah and Catherine had six children: Elizabeth,
+      Gilbert, Edward, Josiah, Antoinette, and Jane. On January 16,
+      1834 Josiah married third Nancy Wiltsie (1790-1869), but had
+      no further children. This marriage took place at the Reformed
+      Dutch Church at Beacon, NY. Josiah DuBois died in 1867.</p>
+      <p>In the early 19th century, Josiah entered into a
+      partnership with his father-in-law Josiah Hasbrouck and
+      “carried on the mercantile business in what is now the Jean
+      Hasbrouck Memorial House”, now owned and operated as a museum
+      by Historic Huguenot Street. In 1822, he built a brick house
+      on Libertyville Road in New Paltz now known as the Blake
+      House. He also became a trustee of the New Paltz Academy upon
+      its incorporation in 1833 and became a part-owner in 1845.
+      New Paltz election records show that he was elected to the
+      position of Overseer of the Poor several times between 1832
+      and 1837, and in 1837 was also elected to the position of
+      Overseer of the Roads. During his lifetime he was affiliated
+      with the Dutch Reformed churches at New Paltz and Shawagunk,
+      and became active in the affairs of the Grand Army of the
+      Republic.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The large majority of the collection documents the real
+      estate holdings and financial activities of Josiah DuBois
+      during the early nineteenth century. The account books and
+      loose receipts provide documentation of the management of the
+      store located in the Jean Hasbrouck House on Huguenot Street
+      by both DuBois and his father-in-law, Josiah Hasbrouck. Other
+      financial activities covered include newspaper subscriptions,
+      taxes, court fees and judgments, expenses concerning,
+      advertising, livestock, transportation, and farm and
+      construction work, and DuBois’ work as Overseer of the
+      Poor.</p>
+      <p>Estate and legal papers such as deeds, mortgages,
+      agreements, bonds, survey maps, and other papers relate to
+      the DuBois family’s land holdings in Libertyville and
+      elsewhere in New Paltz during the eighteenth and early
+      nineteenth centuries. Documents dating prior to 1815 chiefly
+      concern Josiah DuBois’s father and grandfather, both named
+      Cornelius DuBois, and great-grandfather, Solomon DuBois,
+      although other family members (including New Paltz founder,
+      Louis DuBois) are also occasionally represented. Two of these
+      documents are in Dutch. Of particular importance here are
+      several court documents and estate inventories from 1816-1825
+      relating to the care of Josiah DuBois’ mentally unstable
+      brother Cornelius Bruyn DuBois (1783-1825). Also of interest
+      are the numerous wills and inventories of DuBois family
+      members such as Cornelius DuBois, 1780-1781, Margaret DuBois,
+      1784, Cornelius DuBois Jr., 1803, and an undated late
+      nineteenth-century inventory of a woman identified only as
+      “Mrs. DuBois.”</p>
+      <p>The collection also includes daguerreotypes and
+      ambrotypes, most of which are identified, of the DuBois
+      family members and relatives from the Catlin, Elting,
+      Hoysradt, and Van Wagner families.</p>
+      <p>The physical condition of the collection is generally
+      fair, showing damage from tearing, fraying, folding,
+      yellowing, and worn and detached bindings. Some documents are
+      badly torn, with only fragments remaining. The handwriting
+      tends to be clear and legible throughout the collection.</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <persname source="local">DuBois, Josiah</persname>
+      <famname source="snac" authfilenumber="w6357gbd"
+      xlink:type="locator"
+      xlink:href="http://n2t.net/ark:/99166/w6357gbd">Dubois
+      family</famname>
+      <subject authfilenumber="sh85062809" source="lcsh"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/subjects/sh85062809">
+      Huguenots</subject>
+      <geogname source="lcnaf" authfilenumber="n80159065"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/names/n80159065">
+      New Paltz (N.Y.)</geogname>
+    </controlaccess>
+    <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+    xlink:type="simple"
+    xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/DuBois%2C%20Josiah%2C%20Family%20Papers%20(1689-1864)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/ad/asc"
+    xlink:title="Josiah DuBois Family Papers in New York Heritage" />
+    <acqinfo>
+      <p>Unknown. These records were probably found by Kenneth E.
+      Hasbrouck and other Historic Huguenot Street staff at the
+      Blake House (built by Josiah DuBois) on Libertyville Road
+      during the 1980s.</p>
+    </acqinfo>
+    <altformavail>
+      <p>Portions of the 
+      <extref href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/DuBois%2C%20Josiah%2C%20Family%20Papers%20(1689-1864)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/ad/asc">
+      Josiah Dubois family papers</extref>have been digitized as
+      part of the 
+      <extref href="https://nyheritage.org/collections/new-paltz-historic-documents">
+      New Paltz Historic Documents Project.</extref></p>
+    </altformavail>
+    <relatedmaterial>
+      <p>Historic Huguenot Street also maintains several other
+      collections of DuBois family papers. Among these are the
+      include Garret and Roelof DuBois Family Papers (1771-1882),
+      Hendricus and Mathusalem DuBois Family Papers (1702-1927),
+      Daniel and Simon DuBois Family Papers (1695-1864), Nathaniel
+      and Isaac DuBois Family Papers (1778-1927), Patterson DuBois
+      Family Papers (1775-1921), Petrus DuBois Family Papers
+      (1732-1869), and the Solomon DuBois and Rachel Elting Family
+      Papers (1812-1944). Researchers should also consult the
+      Historic Huguenot Street Bible and Rare Book Collection and
+      Ciphering Book Collection for other items with DuBois family
+      history.</p>
+    </relatedmaterial>
+    <dsc>
+      <c id="c-2-1" level="series">
+        <did>
+          <unittitle>Account Books and Papers
+          (1689-1864)</unittitle>
+          <unitdate type="inclusive" normal="1689/1864">
+          1689-1864</unitdate>
+        </did>
+        <c id="c-3-2" level="file">
+          <did>
+            <unittitle>Account Books (1794-1843) – six bound
+            volumes</unittitle>
+            <unitdate type="inclusive" normal="1794/1843">
+            1794-1843</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+        <c id="c-4-2" level="file">
+          <did>
+            <unittitle>Papers (1689-1864) – four folders, two of
+            which are oversized</unittitle>
+            <unitdate type="inclusive" normal="1689/1864">
+            1689-1864</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+        <c id="c-5-2" level="file">
+          <did>
+            <unittitle>Receipts (1813-1861)</unittitle>
+            <unitdate type="inclusive" normal="1813/1861">
+            1813-1861</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+        <c id="c-6-2" level="file">
+          <did>
+            <unittitle>Fragments (undated)</unittitle>
+            <unitdate type="inclusive" normal="undated">
+            undated</unitdate>
+            <container type="Box">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="c-7-1" level="series">
+        <did>
+          <unittitle>Photographs (1840s-1860)</unittitle>
+          <unitdate type="inclusive" normal="1840/1860">
+          1840-1860</unitdate>
+          <note>
+            <p>Photographs are individually wrapped in acid-free
+            tyvek.</p>
+          </note>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,140 @@
+<?xml-stylesheet type="text/xsl" href="/ead_print.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_5123</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Gerrit Freer Papers (1677-1840)</titleproper>
+        <author>Eric Roth 7/17/1999</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2022-10-19</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Carolyn Tornatore</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: a Content
+      Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Gerrit Freer Papers</unittitle>
+      <unitid></unitid>
+      <origination label="Creator">
+        <persname source="local">Freer, Gerrit</persname>
+      </origination>
+      <physdesc>
+        <extent>1 folder</extent>
+        <extent>22 items</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <unitdate type="inclusive" normal="1677/1840">
+      1677-1840</unitdate>
+      <repository>
+        <corpname>Historic Huguenot Street</corpname>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>Unrestricted.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Request for permission to publish materials from these
+      records should be discussed with the Archivist and Director
+      of Historic Huguenot Street.</p>
+    </userestrict>
+    <bioghist>
+      <p>Gerrit Freer C-7 was baptized on April 30, 1727 to Hugo
+      Freer and Brejen Terpenning. On March 14, 1748 he married
+      Maria Freer C-54 (bp. 1729), daughter of Jonas Freer and
+      Catrina Stokerad. Between 1749 and 1773, Gerrit and Maria
+      Freer gave birth to 10 children. According to Ralph LeFevre,
+      Gerrit resided in the hamlet of Butterville in the town of
+      New Paltz, New York. Gerrit Freer is also listed as signer of
+      the Articles of Association and as private in the 1st Ulster
+      County Regiment under Col. Johannis Hardenbergh during the
+      Revolutionary War. Gerrit Freer died in 1804.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The papers primarily document the settlement of Gerrit
+      Freer’s estate in New Paltz after his death in 1804. Records
+      include his will (1804), and bound and loose estate
+      inventories, receipts and quit-claim deeds (1804-1808). Other
+      records include a fair copy of the New Paltz Patent (1677),
+      legal documents concerning the division of the lands within
+      the patent (1703, 1713), bonds of Gerrit Freer to Isaac
+      Hasbrouck, Jacob Hasbrouck, Jun., Philip LeFevre and Joseph
+      Hasbrouck (1754, 1761, 1796, and 1799, respectively), a sale
+      of slave to Jonathan LeFevre (1796), guardianship papers of
+      Sarah Sluyter under the care of Peter LeFevre (1797),
+      quit-claim deed between Ezekiel Elting and Peter LeFevre
+      (1823), will of Johannis LeFevre (1831), and vendue list of
+      Daniel LeFevre (1840).</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <persname source="local">Freer, Gerrit</persname>
+      <subject authfilenumber="sh85062809" source="lcsh"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/subjects/sh85062809">
+      Huguenots</subject>
+      <geogname source="lcnaf" authfilenumber="n80159065"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/names/n80159065">
+      New Paltz (N.Y.)</geogname>
+    </controlaccess>
+    <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+    xlink:type="simple"
+    xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/Freer%2C%20Gerrit%2C%20Papers%20(1727-1804)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/ad/asc"
+    xlink:title="Gerrit Freer Items in New York Heritage" />
+    <arrangement>
+      <p>Papers are arranged chronologically.</p>
+    </arrangement>
+    <acqinfo>
+      <p>Unknown.</p>
+    </acqinfo>
+    <altformavail>
+      <p>Portions of the 
+      <extref href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/Freer%2C%20Gerrit%2C%20Papers%20(1727-1804)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/ad/asc">
+      Gerrit Freer papers</extref>have been digitized as part of
+      the 
+      <extref href="https://nyheritage.org/collections/new-paltz-historic-documents">
+      New Paltz Historic Documents Project.</extref></p>
+    </altformavail>
+    <relatedmaterial>
+      <p>Other collections at Historic Huguenot Street Library
+      relating to the Freer family include the Cyrus Freer Papers
+      (1889-1916), the Hugo Freer Family Papers, and the Wilhelmus
+      and Moses Hasbrouck Family Papers (1753-1897), which contain
+      records of Johannis Freer (1725-1797), and other Freer family
+      members. Researchers may also want to consult the Bible and
+      Religious Book Collection and Ciphering Book Collection,
+      which also house items with Freer family history.</p>
+    </relatedmaterial>
+  </archdesc>
+</ead>

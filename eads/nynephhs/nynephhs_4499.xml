@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_4499</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Lewis Coe Bevier</titleproper>
+        <author>Eric Roth</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2021-02-12</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>Historic Huguenot Street</addressline>
+          <addressline>88 Huguenot St</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid created with EADitor by user
+      nynephhs.</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Lewis Coe Bevier Civil War
+      Letters</unittitle>
+      <unitid></unitid>
+      <origination>
+        <persname source="local">Lewis Coe Bevier</persname>
+      </origination>
+      <physdesc>
+        <extent>.2 cubic foot</extent>
+        <extent>85 items</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <abstract>Letters from Union Civil War soldier Lewis Coe
+      Bevier to his family in New Paltz Landing (now the village of
+      Highland, Ulster County, New York while with the 120th
+      Volunteer Regiment, Company G of the Union Army, which was
+      stationed at various southern locations such as Washington
+      D.C. and Alexandria, Virginia. Topics include news of
+      battles, illnesses and deaths of prominent officers and other
+      soldiers from New Paltz area, hospital and camp
+      conditions.</abstract>
+      <unitdate type="inclusive" normal="1862/1922">1862 -
+      1922</unitdate>
+      <repository>
+        <corpname>Historic Huguenot Street</corpname>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+        <extptr xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:type="simple"
+        xlink:href="https://www.huguenotstreet.org/" />
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>Unrestricted</p>
+    </accessrestrict>
+    <userestrict>
+      <p>User is responsible for copyright permissions. Please
+      contact the library and archives at
+      library@huguenotstreet.org</p>
+    </userestrict>
+    <bioghist>
+      <p>Lewis Coe Bevier (F-349) was born on August 1, 1844 to
+      Benjamin H. Bevier and Sallie A. Ellmore. He served in the
+      Civil War in 120th Volunteer Regiment, Company G of the Union
+      Army from 1862-1865. On June 3, 1869 Bevier married Mary
+      Tompkins (b. 1849). He was later elected Town Clerk in the
+      town of Lloyd in 1873. Bevier was listed as living in
+      Brooklyn, New York in the 1880 Census, and received mail in
+      Poughkeepsie as late as 1922.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The large majority of the collection consists of letters
+      written by Lewis Coe Bevier to his family in New Paltz
+      Landing (Highland), Ulster County, New York from various
+      locations near Washington D.C. during the Civil War. Topics
+      include news of battles, illnesses, wounds, and deaths of
+      officers and soldiers from the New Paltz area, and hospital
+      and camp conditions. A few of these letters have been
+      transcribed in The Historian: The Newsletter of the
+      Bevier-Elting Family Association, an Affiliated Family of the
+      Huguenot Historical Society (Mar. 15, 1998).</p>
+      <p>The letters begin in August 1862, with Lewis writing to
+      his parents that he is enlisted in Company G of the 120th
+      Regiment of New York State Volunteers and is traveling to
+      Washington D.C., describing his brief stops in New York,
+      Philadelphia, and Baltimore along the way. Accompanying him
+      are several friends, also from Lloyd, Charles DuBois, Charles
+      Johnson, Lewis M. Dillon, and Clark Palmiteer. Throughout the
+      entire course of the correspondence, Lewis frequently writes
+      to his parents about the condition of his various friends
+      either serving with him or who have remained at home. Other
+      names mentioned include Silas Van Wagenen, Charles Bleecker,
+      Silas Deyo, James Terwilliger, Charles DuBois, Ira DuBois,
+      Ben Johnson, Alfred Goitichs (Goetschius), Haleckiah (also
+      spelled Aleckiah, or just Aleck) Deyo, Josiah DuBois,
+      Benjamin Day Cook, Jerome Relyea, Joseph Reynolds, James A.
+      Hyde, John Eyett, Henry Johnson, John Brinkerhoff, Edward
+      Wilcox, and Isaac (surname unidentified).</p>
+      <p>For of his service, Lewis worked chiefly as a cook and
+      assistant in several camp hospitals around Washington D.C.
+      Some of these specific camps were Fitzhue Plantation, Potomac
+      Creek, Windmill Point, Fairfax, Petersburg, and Brandy
+      Station. While working at these duties, Lewis often wrote of
+      his comfortable lodgings, food rations, and his efforts to
+      send payments back home. In addition to working as a cook, he
+      also occasionally writes of working as a mail boy and
+      commissary, and at building forts, cutting trees, street,
+      digging trenches, standing guard, and drilling. Lewis also
+      describes hospital conditions, news from battles (including
+      the Battle of Fredericksburg), the death of General Stonewall
+      Jackson, burning an abandoned rebel camp, occasional prayer
+      meetings and sermons, and soldiers injuring themselves in
+      attempts be granted discharges.</p>
+      <p>In 1864, Lewis increasingly writes of being assigned to
+      picket duty and fighting in battles, which he describes in
+      some detail. Of particular interest are references to
+      exchanging coffee, tobacco and soap with the rebels across
+      the picket lines, a bloodless capture of an entire rebel
+      picket line, the 1864 Presidential Election, Lincoln’s
+      assassination, playing pranks on officers, and black troops
+      serving on the front lines. The language used by Lewis is
+      also of interest in that it is particularly colorful and full
+      of slang and popular phrases from the time, such as “first
+      rate,” “bully,” “like fun,” and “Old Jeff” (in reference to
+      Jefferson Davis). For example, Lewis writes on August 7, 1864
+      that he “received those suspenders and they came first rate
+      for I had only one suspender and I could not keep my pants
+      up.” In another instances, he writes of having “just bully
+      times,” and “it rained like fun but I stood it like a
+      major.”</p>
+      <p>In addition to letters written by Lewis, the collection
+      contains five very descriptive and observant letters written
+      by regimental physician John N. Miller, originally from
+      Highland. Written to Lewis’ parents, these letters describe
+      in detail numerous several aspects of Miller’s work and
+      experiences. Of particular interest are letters describing
+      news of local men serving in the 120th regiment, Miller’s
+      role as a surgeon at the Battle of Gettysburg (Aug. 17,
+      1863), his observances of a Southern village near Culpepper
+      (Virginia), particularly noting the slave buildings and the
+      behavior of the women (Sept. 27, 1863), the grueling work and
+      unhealthy living conditions imposed on the soldiers during
+      the Winter campaign at Fredericksburg (Jan. 19 and Dec. 29,
+      1864), and concerns about losing his medical practice to
+      competitors back home while he is serving in the war.</p>
+      <p>The collection also contains invitations concerning
+      occasional Veteran’s reunion events from 1897 to 1922 and a
+      photographic postcard showing Lewis Coe Bevier with the rest
+      of the surviving members of his company in 1913.</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <persname source="local">Louis Coe Bevier</persname>
+      <famname source="local">Bevier Family</famname>
+      <subject source="local">Civil War</subject>
+    </controlaccess>
+    <dsc>
+      <c id="c-2-1" level="file">
+        <did>
+          <unittitle>Correspondence (1862)</unittitle>
+        </did>
+      </c>
+      <c id="c-3-1" level="file">
+        <did>
+          <unittitle>Correspondence (1863)</unittitle>
+        </did>
+      </c>
+      <c id="c-4-1" level="file">
+        <did>
+          <unittitle>Correspondence (1864-1865)</unittitle>
+        </did>
+      </c>
+      <c id="c-5-1" level="file">
+        <did>
+          <unittitle>Miscellaneous (1897-1922)</unittitle>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

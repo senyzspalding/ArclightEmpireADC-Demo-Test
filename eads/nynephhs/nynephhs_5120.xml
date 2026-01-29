@@ -1,0 +1,3906 @@
+<?xml version="1.0"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+xmlns:ns2="http://www.w3.org/1999/xlink"
+xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <eadheader audience="internal" countryencoding="iso3166-1"
+  dateencoding="iso8601" langencoding="iso639-2b"
+  repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="nynephhs">
+    nynephhs_5120</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Daniel and Simon DuBois Family Papers
+        (1695-1864)</titleproper>
+        <author>Eric J. Roth 9/29/1999</author>
+      </titlestmt>
+      <publicationstmt>
+        <date>2022-10-19</date>
+        <publisher>Historic Huguenot Street</publisher>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Carolyn Tornatore</creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: a Content
+      Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="Collection">
+    <did>
+      <unittitle label="Title">Daniel and Simon DuBois Family
+      Papers</unittitle>
+      <unitid></unitid>
+      <origination label="Creator">
+        <persname source="local">DuBois, Daniel</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="local">DuBois, Simon</persname>
+      </origination>
+      <physdesc>
+        <extent>0.5 cubic feet</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+        <language langcode="fre">French</language>
+      </langmaterial>
+      <unitdate type="inclusive" normal="1695/1864">
+      1695-1864</unitdate>
+      <repository>
+        <corpname>Historic Huguenot Street</corpname>
+        <address>
+          <addressline>88 Huguenot Street</addressline>
+          <addressline>New Paltz</addressline>
+          <addressline>New York</addressline>
+          <addressline>12561</addressline>
+          <addressline>United States</addressline>
+        </address>
+      </repository>
+    </did>
+    <accessrestrict>
+      <p>There are no restrictions on access to the collection.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Request for permission to publish materials from these
+      records should be discussed with the Archivist and Director
+      of Historic Huguenot Street.</p>
+    </userestrict>
+    <bioghist>
+      <p>Individuals primarily represented in the collection
+      include Daniel DuBois (1684-1752), Simon DuBois (1719-1791),
+      Daniel DuBois (1750-1817) and Daniel I. DuBois
+      (1795-1852).</p>
+      <p>Daniel DuBois (C-40), son of Isaac DuBois and Mary
+      Hasbrouck, was baptized on April 28, 1684 at the Reformed
+      Church in New Paltz, New York. On June 18, 1713, he married
+      Mary LeFevre (1689 - ca. 1730), daughter of Simon LeFevre and
+      Elizabeth Deyo, at Kingston. Together they had eight
+      children. Daniel died on April 21, 1752. In 1705 Daniel built
+      the House on Huguenot Street in New Paltz known as the
+      “DuBois Fort,” which was mandated by the Colonial Government
+      to provide a redoubt against Indian attack. (No attack was
+      ever reported at New Paltz.) Daniel represented Isaac DuBois’
+      share of the New Paltz Patent as a member of the New Paltz
+      proprietor’s group known as the Twelve Men from 1738 to
+      1752.</p>
+      <p>Daniel’s son, Simon DuBois (D-55) inherited the Fort upon
+      his father’s death in 1752. He was born on June 28, 1719 and
+      baptized at Kingston. On October 7, 1742 he married Catharine
+      LeFevre (1721), daughter of Andries LeFevre and Diana Deyo.
+      Between 1743 and 1763 they had eight children. At New Paltz
+      Simon served as a member of the Twelve Men (for Isaac DuBois’
+      share) from 1754 to 1788 and as Overseer of the Poor from
+      1755 to 1764 and Overseer of Highways in 1778. He died in
+      1791.</p>
+      <p>Simon’s son, Daniel (E-134) inherited the fort after his
+      father’s death in 1791. Daniel wasbaptized on October 19,
+      1750, married Catharine Bessimer at Marbletown, and had no
+      children. Daniel (E-134) served as a member of the Twelve Men
+      from 1788 to 1794. He died in 1825.</p>
+      <p>Daniel I. DuBois (F-201), was born on July 13, 1795 to
+      Isaac DuBois and Rebecca Deyo at New Paltz. On August 26,
+      1820 he married Magdalene Hasbrouck at New Paltz and had five
+      children. In 1825, Daniel received title to the DuBois Fort
+      from his uncle Daniel (D-134). Daniel’s (F-201) youngest
+      daughter, Mary DuBois Berry (1838-1902) inherited the fort
+      after her father’s death in 1858.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The majority of the papers relate to business activities
+      of the DuBois family who owned and/or lived in the DuBois
+      Fort on Huguenot Street in New Paltz, New York during the
+      18th and early 19th centuries. Bulk dates for the collection
+      are 1733-1833. Papers include estate and legal papers such as
+      deeds, wills, bonds, court papers, estate inventories,
+      quit-claims and other documents pertaining to properties in
+      the towns of New Paltz and Shawagunk in Ulster county from
+      1722 to 1828; as well as receipts and agreements concerning
+      domestic goods, property, building supplies, household items,
+      etc. dating from 1685 to 1820. The records from the late 17th
+      and early 18th centuries, some of which are in French and
+      Dutch, primarily relate to financial transactions of Louis
+      and Isaac DuBois, both patentees of New Paltz.</p>
+      <p>Of particular interest are the probate records of several
+      DuBois family members, such as the wills of Daniel DuBois
+      (1747); Simon DuBois (1756); Solomon DuBois (1756), which was
+      probated 1759 and covered with the front page of the New York
+      Revived Weekly Gazette (July 20, 1747); Simon DuBois (1787),
+      probated 1799; Daniel DuBois (1810), probated 1825; an
+      undated estate inventory of Jonathan A. Lattin (ca. 1825);
+      and an auction list of Daniel DuBois (1832). Other items of
+      note include a letter from Johannes M. Goetschius to Simon
+      DuBois (1760); a receipt describing the medical condition of
+      a slave (1770), an agreement that Goetchius will take care of
+      Evert Roos, son of Peter Roos (1782); slave purchase by
+      Daniel DuBois (1794); memoranda to the trustees of State
+      School Districts (1833); and an undated Indian deed
+      concerning a tract of land near the town of Marbletown in
+      Ulster County, New York. There are also advertisements and
+      the Caldwell &amp; Pearson store at Albany, NY (1792), and
+      “Everett’s Grand Triple Combination Polyorama…” (undated,
+      late 19th century).</p>
+      <p>The overall condition of the papers is good and the
+      handwriting legible. This collection was formerly known as
+      the DuBois Family Papers.</p>
+    </scopecontent>
+    <controlaccess xmlns:xlink="http://www.w3.org/1999/xlink">
+      <persname source="local">DuBois, Daniel</persname>
+      <persname source="local">DuBois, Simon</persname>
+      <famname source="snac" authfilenumber="w6357gbd"
+      xlink:type="locator"
+      xlink:href="http://n2t.net/ark:/99166/w6357gbd">Dubois
+      family</famname>
+      <subject authfilenumber="sh85062809" source="lcsh"
+      xlink:type="locator"
+      xlink:href="http://id.loc.gov/authorities/subjects/sh85062809">
+      Huguenots</subject>
+    </controlaccess>
+    <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+    xlink:type="simple"
+    xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/DuBois%2C%20Daniel%20and%20Simon%2C%20Family%20Papers%20(1685-1864)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/"
+    xlink:title="Daniel and Simon DuBois Family Papers in New York Heritage" />
+    <arrangement>
+      <p>The collection is organized into folders alphabetically by
+      format (estate and legal papers, miscellaneous, receipts) and
+      thereunder by date.</p>
+    </arrangement>
+    <acqinfo>
+      <p>The majority of the papers were probably donated to
+      Historic Huguenot Street by Jesse E. DuBois. Other papers
+      were found in the safe of the Jean Hasbrouck House and placed
+      in Historic Huguenot Street Archives in 1983. These
+      particular papers may have formerly been in the possession of
+      Lanetta Elting DuBois, who resided in the Bevier-Elting
+      House.</p>
+    </acqinfo>
+    <altformavail>
+      <p>Portions of the 
+      <extref href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/DuBois%2C%20Daniel%20and%20Simon%2C%20Family%20Papers%20(1685-1864)!New%20Paltz%20Historic%20Documents/field/source!relatig/mode/exact!exact/conn/and!and/order/title/">
+      Daniel and Simon DuBois family papers</extref>have been
+      digitized as part of the 
+      <extref href="https://nyheritage.org/collections/new-paltz-historic-documents">
+      New Paltz Historic Documents Project.</extref></p>
+    </altformavail>
+    <relatedmaterial>
+      <p>Historic Huguenot Street also maintains several other
+      collections of DuBois family papers. These include Garret and
+      Roelof DuBois Family Papers (1771-1882), Hendricus and
+      Mathusalem DuBois Family Papers (1702-1927), Josiah DuBois
+      Receipt Book (1794-1854), Nathaniel and Isaac DuBois Family
+      Papers (1778-1927), Patterson DuBois Family Papers
+      (1775-1921), Petrus DuBois Family Papers (1732-1869), and the
+      Solomon DuBois and Rachel Elting Family Papers (1812-1944).
+      Researchers should also consult the Historic Huguenot Street
+      Bible and Rare Book Collection and Ciphering Book Collection
+      for other items with DuBois family history.</p>
+    </relatedmaterial>
+    <dsc>
+      <c id="c-2-1" level="file">
+        <did>
+          <unittitle>Estate and Legal Papers
+          (1734-1799)</unittitle>
+          <unitdate type="inclusive" normal="1734/1799">
+          1734-1799</unitdate>
+          <container type="Folder">000.001</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20008.000.001"
+          xlink:title="View Estate and Legal Papers (1734-1799) on NYH" />
+        </did>
+        <c id="c-3-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Daniel Dubois by
+            John Anderson and Leonard Lewis</unittitle>
+            <unitdate>1733/34-03-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/389"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-4-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Danyel du bois
+            by Juryan Tappen and Johannes Tappen</unittitle>
+            <unitdate type="inclusive" normal="1739-11-05">
+            1739-11-05</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/379"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-5-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Daniel Du boys
+            by John Lafever</unittitle>
+            <unitdate>1742/43-03-21</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/393"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-6-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Anthony Sloght
+            by Daniel Du bois</unittitle>
+            <unitdate type="inclusive" normal="1743-10-01">
+            1743-10-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/138"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-7-2" level="item">
+          <did>
+            <unittitle>Document regarding tax by Ulster County
+            elected town supervisors to the assessors of the New
+            Paltz</unittitle>
+            <unitdate type="inclusive" normal="1746-06-04">
+            1746-06-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/376"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-8-2" level="item">
+          <did>
+            <unittitle>Last will and testament, Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1747-09-12">
+            1747-09-12</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/373"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-9-2" level="item">
+          <did>
+            <unittitle>Agreement regarding several lots of land
+            conveyed by Daniel Dubois to Simon Dubois</unittitle>
+            <unitdate type="inclusive" normal="1752-04-16">
+            1752-04-16</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/9286"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-10-2" level="item">
+          <did>
+            <unittitle>Last will and testament and probate, Solomon
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1756-06-26">
+            1756-06-26</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/368"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-11-2" level="item">
+          <did>
+            <unittitle>Last will and testament, Simon
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1756-07-24">
+            1756-07-24</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/383"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-12-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon Dubois by
+            William Ellsworth Junr</unittitle>
+            <unitdate type="inclusive" normal="1765-04-02">
+            1765-04-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/144"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-13-2" level="item">
+          <did>
+            <unittitle>Lease, Simon Dubois to Joseph
+            Coddington</unittitle>
+            <unitdate>177?-04-??</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/74"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-14-2" level="item">
+          <did>
+            <unittitle>Agreement between Peter [Petrus] Roos and
+            Abraham Goetschuis to apprentice Evert Roos to Abraham
+            Goetschuis</unittitle>
+            <unitdate type="inclusive" normal="1782-02-27">
+            1782-02-27</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/142"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-15-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon Dubois by
+            Andreas Dubois</unittitle>
+            <unitdate type="inclusive" normal="1787-04-07">
+            1787-04-07</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/351"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-16-2" level="item">
+          <did>
+            <unittitle>Probate and last will and testament, Simon
+            DuBois</unittitle>
+            <unitdate type="inclusive" normal="1787-04-16">
+            1787-04-16</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/21200"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-17-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon Dubois by
+            Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1788">
+            1788</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/386"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-18-2" level="item">
+          <did>
+            <unittitle>Deed of gift, Simon Dubois to his sons
+            Daniel and Joseph</unittitle>
+            <unitdate type="inclusive" normal="1789-04-24">
+            1789-04-24</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/680"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-19-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, Jacob Lefever and Lidia
+            Lafever to David Doyo</unittitle>
+            <unitdate type="inclusive" normal="1792-07-14">
+            1792-07-14</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/689"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-20-2" level="item">
+          <did>
+            <unittitle>Agreement between Roelof J. Eltinge, Abraham
+            Eltinge, and Jacob Hasbrouck Jnr</unittitle>
+            <unitdate type="inclusive" normal="1793-05-30">
+            1793-05-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/730"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-21-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Rose from the estate of Simon
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1793-06-10">
+            1793-06-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/667"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-22-2" level="item">
+          <did>
+            <unittitle>Deed, Johannes Bruyn, Johannis J. Jansen,
+            and Nathaniel Dubois to William Doyo</unittitle>
+            <unitdate type="inclusive" normal="1793-09-12">
+            1793-09-12</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/658"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-23-2" level="item">
+          <did>
+            <unittitle>Bill of sale for Dean and Isabel, enslaved
+            people, to Andries Dubois by Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1794-03-25">
+            1794-03-25</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/8"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-24-2" level="item">
+          <did>
+            <unittitle>Deed, John Rosekrans and Margeriet his wife
+            and Abraham donaldson to Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1796-02-08">
+            1796-02-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/84"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-25-2" level="item">
+          <did>
+            <unittitle>Subpoena, Daniel DuBois june
+            [Junior]</unittitle>
+            <unitdate type="inclusive" normal="1799-05-04">
+            1799-05-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/26"
+            xlink:title="View item" />
+          </did>
+        </c>
+      </c>
+      <c id="c-26-1" level="file">
+        <did>
+          <unittitle>Estate and Legal Papers (1801-1864 and
+          undated)</unittitle>
+          <unitdate type="inclusive" normal="1802/1864">1802-1864,
+          undated</unitdate>
+          <container type="Folder">000.002</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20008.000.002"
+          xlink:title="View Estate and Legal Papers (1802-1864 and undated) on NYH" />
+        </did>
+        <c id="c-27-2" level="item">
+          <did>
+            <unittitle>Lease, Thomas Bruyn to Margret Bruyn,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/71"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-28-2" level="item">
+          <did>
+            <unittitle>Articles of agreement between Andries
+            Bevier, Abraham Bevier, and Matthew Bevier (fragment,
+            undated)</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/608"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-29-2" level="item">
+          <did>
+            <unittitle>Memorandum of property belonging to Abraham
+            Dubois, son of Simon Dubois and Hannah Sahler,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/655"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-30-2" level="item">
+          <did>
+            <unittitle>Land survey, undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/708"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-31-2" level="item">
+          <did>
+            <unittitle>Inventory of personal property of Jonathan
+            A. Lattin, undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/757"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-32-2" level="item">
+          <did>
+            <unittitle>Vendue list and estate inventory, undated
+            and untitled</unittitle>
+            <unitdate type="inclusive" normal="1852">
+            1852</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/587"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-33-2" level="item">
+          <did>
+            <unittitle>Deed, Jonas Smith and Dinah his wife to
+            Simon Shurragar</unittitle>
+            <unitdate type="inclusive" normal="1801-08-30">
+            1801-08-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/761"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-34-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, Jacob J. Hasbrouck to
+            Josiah Hasbrouck</unittitle>
+            <unitdate type="inclusive" normal="1805-05-01">
+            1805-05-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/73"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-35-2" level="item">
+          <did>
+            <unittitle>Lease, Andries Dubois to Edward
+            Parliman</unittitle>
+            <unitdate type="inclusive" normal="1813-01-12">
+            1813-01-12</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/692"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-36-2" level="item">
+          <did>
+            <unittitle>Deed, Ezekiel Eltinge to Daniel Dubois
+            (1)</unittitle>
+            <unitdate type="inclusive" normal="1819-05-28">
+            1819-05-28</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/622"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-37-2" level="item">
+          <did>
+            <unittitle>Deed, Ezekiel Eltinge to Daniel Dubois
+            (2)</unittitle>
+            <unitdate type="inclusive" normal="1820-08-24">
+            1820-08-24</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/674"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-38-2" level="item">
+          <did>
+            <unittitle>Sheriff's certificate of sale, Jonathan
+            Lattin's farm to Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1820-08-29">
+            1820-08-29</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/628"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-39-2" level="item">
+          <did>
+            <unittitle>Sheriff's notice of public vendue and
+            certificate of sale, property of Gilbert Saxton
+            Jun.</unittitle>
+            <unitdate type="inclusive" normal="1821-05-19">
+            1821-05-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/727"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-40-2" level="item">
+          <did>
+            <unittitle>Certificate of sheriff's sale of property of
+            Gilbert Saxton Jun. to Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1821-09-15">
+            1821-09-15</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/599"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-41-2" level="item">
+          <did>
+            <unittitle>Bond, Jonathan Lattin to Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1822-05-02">
+            1822-05-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/605"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-42-2" level="item">
+          <did>
+            <unittitle>Probate of the will of Daniel DuBois and
+            last will and testament of Daniel Dubois 1810-05-10 and
+            letters testamentary</unittitle>
+            <unitdate type="inclusive" normal="1825-11-17">
+            1825-11-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/618"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-43-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, Isaac Craft to Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1826-02-01">
+            1826-02-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/683"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-44-2" level="item">
+          <did>
+            <unittitle>Deed, Solomon E. Eltinge, administrator, and
+            Maria Lattin, administratrix, to Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1826-08-23">
+            1826-08-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/754"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-45-2" level="item">
+          <did>
+            <unittitle>Quit claim, Simon Dubois to his mother
+            Rebecca Dubois</unittitle>
+            <unitdate type="inclusive" normal="1828-02-02">
+            1828-02-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/670"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-46-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, Roeliff Hasbrouck to
+            Jonathan J. LeFever and Dinah his wife, William W. Deyo
+            and Sarah his wife, Jacob H. Roosa and Catharine his
+            wife and Daniel Dubois and Magdalin his
+            wife</unittitle>
+            <unitdate type="inclusive" normal="1830-03-25">
+            1830-03-25</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/611"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-47-2" level="item">
+          <did>
+            <unittitle>Quit claim deed of Moses Saxton and Maria
+            his wife to Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1832-03-19">
+            1832-03-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/661"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-48-2" level="item">
+          <did>
+            <unittitle>Document by commissioners of highways for
+            the town of New Paltz</unittitle>
+            <unitdate type="inclusive" normal="1832-12-24">
+            1832-12-24</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/625"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-49-2" level="item">
+          <did>
+            <unittitle>Subpoena, Melissa Dubois</unittitle>
+            <unitdate type="inclusive" normal="1844-09-02">
+            1844-09-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/135"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-50-2" level="item">
+          <did>
+            <unittitle>The estate of Daniel Dubois cash ledger
+            (2)</unittitle>
+            <unitdate type="inclusive" normal="1852-04-01">
+            1852-04-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/695"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-51-2" level="item">
+          <did>
+            <unittitle>The estate of Daniel Dubois cash ledger
+            (1)</unittitle>
+            <unitdate type="inclusive" normal="1852-04-14">
+            1852-04-14</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/740"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-52-2" level="item">
+          <did>
+            <unittitle>Auction list of Daniel Dubois
+            deceased</unittitle>
+            <unitdate type="inclusive" normal="1852-04-27">
+            1852-04-27</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/677"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-53-2" level="item">
+          <did>
+            <unittitle>Chattle Morgage [Mortgage], John A. Dubois
+            to Samuel A. Dubois</unittitle>
+            <unitdate type="inclusive" normal="1855-05-08">
+            1855-05-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/590"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-54-2" level="item">
+          <did>
+            <unittitle>Soldier's Power of Attorney, Samuel
+            Auchmoody</unittitle>
+            <unitdate type="inclusive" normal="1864-10-17">
+            1864-10-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/0"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-55-2" level="item">
+          <did>
+            <unittitle>Affidavit of absent elector, Samuel
+            Auchmoody</unittitle>
+            <unitdate type="inclusive" normal="1864-10-17">
+            1864-10-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/593"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-56-2" level="item">
+          <did>
+            <unittitle>Soldier's Power of Attorney, Angevine C.
+            Davis</unittitle>
+            <unitdate type="inclusive" normal="1864-10-22">
+            1864-10-22</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/40"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-57-2" level="item">
+          <did>
+            <unittitle>Affidavit of absent elector, Angevine C.
+            Davis</unittitle>
+            <unitdate type="inclusive" normal="1864-10-22">
+            1864-10-22</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/125"
+            xlink:title="View item" />
+          </did>
+        </c>
+      </c>
+      <c id="c-58-1" level="file">
+        <did>
+          <unittitle>Miscellaneous (1740-1922 and
+          undated)</unittitle>
+          <unitdate>1760-1922, undated</unitdate>
+          <container type="Folder">000.003</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20008.000.003"
+          xlink:title="View Miscellaneous (1760-1922 and undated) on NYH" />
+        </did>
+        <c id="c-59-2" level="item">
+          <did>
+            <unittitle>List, "The Successors of the 12 Pattentees,"
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/664"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-60-2" level="item">
+          <did>
+            <unittitle>List, "Successors of the 12 Patentees,"
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/686"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-61-2" level="item">
+          <did>
+            <unittitle>Fragment containing the words, "Reigne of
+            our Lord...France and Ireland...King...New
+            Paltz..."</unittitle>
+            <unitdate type="inclusive" normal="1740">
+            1740</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/724"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-62-2" level="item">
+          <did>
+            <unittitle>Poster, Everett's Grand Triple Combination
+            Polyorama: Science, Instruction and
+            Amusement</unittitle>
+            <unitdate type="inclusive" normal="1874">
+            1874</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/698"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-63-2" level="item">
+          <did>
+            <unittitle>Letter to Mr. Simon Dubois, N Paltz, from
+            Joh. Mauritius Goetschius, V.D.M., Schohary</unittitle>
+            <unitdate type="inclusive" normal="1760-07-03">
+            1760-07-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/634"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-64-2" level="item">
+          <did>
+            <unittitle>Resolutions of the Legislature of the State
+            of New York, to the Trustees of the several School
+            Districts in this State</unittitle>
+            <unitdate type="inclusive" normal="1833-05-30">
+            1833-05-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/737"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-65-2" level="item">
+          <did>
+            <unittitle>The Congressional Globe Extra, Abstract of
+            the Seventh Census</unittitle>
+            <unitdate type="inclusive" normal="1851-12-01">
+            1851-12-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/721"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-66-2" level="item">
+          <did>
+            <unittitle>Supplement to the New-York Times</unittitle>
+            <unitdate type="inclusive" normal="1861-12-07">
+            1861-12-07</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/128"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-67-2" level="item">
+          <did>
+            <unittitle>Affidavit of Unregistered Voter, Ira F.
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1864-03-08">
+            1864-03-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/637"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-68-2" level="item">
+          <did>
+            <unittitle>The Branch Bank Controversy, A reprint of
+            the Chicago and Cook County Bankers Association
+            Bulletin, with handwritten lists</unittitle>
+            <unitdate type="inclusive" normal="1922-08-??">
+            1922-08-??</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/581"
+            xlink:title="View item" />
+          </did>
+        </c>
+      </c>
+      <c id="c-69-1" level="file">
+        <did>
+          <unittitle>Receipts (1695-1792)</unittitle>
+          <unitdate type="inclusive" normal="1695/1792">
+          1695-1792</unitdate>
+          <container type="Folder">000.004</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20008.000.004"
+          xlink:title="View Receipts (1695-1792) on NYH" />
+        </did>
+        <c id="c-70-2" level="item">
+          <did>
+            <unittitle>List of nails, latches, lead, glass, putty,
+            lam [lamp] black, etc. undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/34"
+            xlink:title="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/34" />
+          </did>
+        </c>
+        <c id="c-71-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Mary Almendorph,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/77"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-72-2" level="item">
+          <did>
+            <unittitle>Note to Mr. Dubois by George Ffield,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/851"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-73-2" level="item">
+          <did>
+            <unittitle>Receipt, Louis DuBois</unittitle>
+            <unitdate type="inclusive" normal="1695-06-17">
+            1695-06-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/110"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-74-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by Willem
+            Eltinge</unittitle>
+            <unitdate type="inclusive" normal="1710">
+            1710</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/10"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-75-2" level="item">
+          <did>
+            <unittitle>Receipt, Lewis Duboise by H Byerly
+            Coll</unittitle>
+            <unitdate type="inclusive" normal="1715-09-29">
+            1715-09-29</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/704"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-76-2" level="item">
+          <did>
+            <unittitle>Receipt, Lewis Dubois by H Byerly
+            Coll</unittitle>
+            <unitdate type="inclusive" normal="1722-06-08">
+            1722-06-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/596"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-77-2" level="item">
+          <did>
+            <unittitle>Receipt, Danjell Dubois by Corn [Cornelius]
+            Low Jun</unittitle>
+            <unitdate>1725/6-02-11</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/64"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-78-2" level="item">
+          <did>
+            <unittitle>Receipt, Jacob Hasbrouck by Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1727-11-03">
+            1727-11-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/602"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-79-2" level="item">
+          <did>
+            <unittitle>Receipt, Lewis Dubois by Arch
+            Kennedy</unittitle>
+            <unitdate type="inclusive" normal="1730-12-09">
+            1730-12-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/92"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-80-2" level="item">
+          <did>
+            <unittitle>Receipt, Danyel Du Bois by Juryan Tappen
+            (1)</unittitle>
+            <unitdate type="inclusive" normal="1733-07-29">
+            1733-07-29</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/22"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-81-2" level="item">
+          <did>
+            <unittitle>Receipt, Lewis Dubois by Arch'd Kennedy
+            (2)</unittitle>
+            <unitdate type="inclusive" normal="1733-10-29">
+            1733-10-29</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/701"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-82-2" level="item">
+          <did>
+            <unittitle>Receipt, Danyel Dubois by Juryan Tappen
+            (2)</unittitle>
+            <unitdate type="inclusive" normal="1735-10-18">
+            1735-10-18</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/75"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-83-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by Juryan Tappen
+            (3)</unittitle>
+            <unitdate type="inclusive" normal="1736-12-16">
+            1736-12-16</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/94"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-84-2" level="item">
+          <did>
+            <unittitle>Receipt and promissory note, payable to
+            Daniel Dubois by Leonardus Kool</unittitle>
+            <unitdate>1737-07-??</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/573"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-85-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by Juryan Tappen
+            (4)</unittitle>
+            <unitdate>1738/39-01-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/104"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-86-2" level="item">
+          <did>
+            <unittitle>Receipt, Salomon du bois and Roelof Eltinge
+            by Andre Lefevre</unittitle>
+            <unitdate type="inclusive" normal="1738-01-28">
+            1738-01-28</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/418"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-87-2" level="item">
+          <did>
+            <unittitle>Note, "...boutes 60 pistol a lantere a
+            Jurian tappe..."</unittitle>
+            <unitdate type="inclusive" normal="1739-11-01">
+            1739-11-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/148"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-88-2" level="item">
+          <did>
+            <unittitle>Bond mentioning partial payment by Wilhelmus
+            Hooghtaling</unittitle>
+            <unitdate type="inclusive" normal="1740-12-06">
+            1740-12-06</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/88"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-89-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Daniel DuBois by
+            Nathaniel Divine</unittitle>
+            <unitdate type="inclusive" normal="1744-01-16">
+            1744-01-16</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/890"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-90-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by John
+            Crook</unittitle>
+            <unitdate type="inclusive" normal="1745-11-07">
+            1745-11-07</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/127"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-91-2" level="item">
+          <did>
+            <unittitle>Bond to Daniel Dubois from Juryan Tappen and
+            Johannes Tappen</unittitle>
+            <unitdate type="inclusive" normal="1746-02-02">
+            1746-02-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/154"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-92-2" level="item">
+          <did>
+            <unittitle>Note, "49 pistol a lentere pour 4 parsans
+            &amp; demist"</unittitle>
+            <unitdate type="inclusive" normal="1749-01-24">
+            1749-01-24</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/711"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-93-2" level="item">
+          <did>
+            <unittitle>Invoice and demand for payment, Simon DuBois
+            of New Paltz, by Johannes Mauritius
+            Goetschius</unittitle>
+            <unitdate>1750 ca.</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/409"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-94-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by A
+            Hasbrouck</unittitle>
+            <unitdate type="inclusive" normal="1750-03-18">
+            1750-03-18</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/7"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-95-2" level="item">
+          <did>
+            <unittitle>Subpoena, Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1751-01-19">
+            1751-01-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/87"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-96-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Hasbrouck, Simon Dubois, and
+            Abraham Dejou, by Joseph Gashiere</unittitle>
+            <unitdate type="inclusive" normal="1753-01-05">
+            1753-01-05</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/97"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-97-2" level="item">
+          <did>
+            <unittitle>Simon Dubois, two bonds of Matthew
+            Allan</unittitle>
+            <unitdate type="inclusive" normal="1755-07-09">
+            1755-07-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/119"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-98-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by John D. Wynkoop
+            (1)</unittitle>
+            <unitdate type="inclusive" normal="1758-01-02">
+            1758-01-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/156"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-99-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Joseph Gasherie,
+            Kingston</unittitle>
+            <unitdate type="inclusive" normal="1758-12-12">
+            1758-12-12</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/93"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-100-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois, recipient unknown,
+            Kingston</unittitle>
+            <unitdate type="inclusive" normal="1759-10-24">
+            1759-10-24</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/114"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-101-2" level="item">
+          <did>
+            <unittitle>Bond, James Wilkin</unittitle>
+            <unitdate type="inclusive" normal="1760-06-02">
+            1760-06-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/89"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-102-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Henry
+            Green</unittitle>
+            <unitdate type="inclusive" normal="1760-11-18">
+            1760-11-18</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/109"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-103-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by D
+            Wynkoop</unittitle>
+            <unitdate type="inclusive" normal="1765-06-10">
+            1765-06-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/631"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-104-2" level="item">
+          <did>
+            <unittitle>Invoice and receipt, foodstuffs, hats, and
+            rum purchased by simo duboys</unittitle>
+            <unitdate>1765-April through July</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/29"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-105-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by John D. Wynkoop
+            (2)</unittitle>
+            <unitdate type="inclusive" normal="1766">
+            1766</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/18"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-106-2" level="item">
+          <did>
+            <unittitle>Statement of interest on bond, Wyntje
+            Hasbrouck</unittitle>
+            <unitdate>1766-09-??</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/70"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-107-2" level="item">
+          <did>
+            <unittitle>Bond transfer, John Rosekrans Jun to James
+            Livingston</unittitle>
+            <unitdate type="inclusive" normal="1766-09-15">
+            1766-09-15</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/743"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-108-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by A Hasbrouck
+            Jun</unittitle>
+            <unitdate type="inclusive" normal="1767-07-04">
+            1767-07-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/3598"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-109-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Duboys by A Hasbrouck
+            Jun.</unittitle>
+            <unitdate type="inclusive" normal="1767-07-04">
+            1767-07-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/4436"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-110-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Willem Eltinge,
+            Kingston</unittitle>
+            <unitdate type="inclusive" normal="1768-03-22">
+            1768-03-22</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/11"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-111-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois "by the hand of
+            Jacobus Roos," by Joh. Mauritius Goetschius</unittitle>
+            <unitdate type="inclusive" normal="1770-01-12">
+            1770-01-12</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/15"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-112-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Elias Hasbrouck,
+            Kingston</unittitle>
+            <unitdate type="inclusive" normal="1770-01-30">
+            1770-01-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/101"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-113-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Joseph Hasbrouck,
+            Kingston, in full of accounts</unittitle>
+            <unitdate type="inclusive" normal="1770-05-21">
+            1770-05-21</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/59"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-114-2" level="item">
+          <did>
+            <unittitle>List of measures of flour bran, headed
+            "[heart symbol] headmark SDB"</unittitle>
+            <unitdate type="inclusive" normal="1770-05-30">
+            1770-05-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/733"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-115-2" level="item">
+          <did>
+            <unittitle>Ledger, Simon Dubois to H and I
+            Sleght</unittitle>
+            <unitdate type="inclusive" normal="1770-07-11">
+            1770-07-11</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/105"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-116-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Du Boois by Dom C Jos
+            Elmendorph</unittitle>
+            <unitdate type="inclusive" normal="1770-09-23">
+            1770-09-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/152"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-117-2" level="item">
+          <did>
+            <unittitle>Promissory note payable to Simon Dubois by
+            Robt. Dunlap</unittitle>
+            <unitdate type="inclusive" normal="1770-10-04">
+            1770-10-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/576"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-118-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by John Elmendorph,
+            Kingston</unittitle>
+            <unitdate type="inclusive" normal="1771-06-24">
+            1771-06-24</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/80"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-119-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Catharina
+            Kiersteade</unittitle>
+            <unitdate type="inclusive" normal="1772-06-18">
+            1772-06-18</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/159"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-120-2" level="item">
+          <did>
+            <unittitle>Receipt, Jacob Smedes "by the hands of Simon
+            Dubois" by Roelof Josias Eltinge</unittitle>
+            <unitdate type="inclusive" normal="1772-07-30">
+            1772-07-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/85"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-121-2" level="item">
+          <did>
+            <unittitle>Bond, Jn. Anderson and Leonard Lewis to
+            Daniel Dubois</unittitle>
+            <unitdate>1773/4-08-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/158"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-122-2" level="item">
+          <did>
+            <unittitle>Leonard VanVleck vs. William
+            Elsworth</unittitle>
+            <unitdate type="inclusive" normal="1773-04-30">
+            1773-04-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/42"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-123-2" level="item">
+          <did>
+            <unittitle>List of measures and values of flour
+            bran</unittitle>
+            <unitdate type="inclusive" normal="1773-11-09">
+            1773-11-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/123"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-124-2" level="item">
+          <did>
+            <unittitle>Receipt, Semion Dubois by Abram A.
+            Hasbrouck</unittitle>
+            <unitdate type="inclusive" normal="1775-01-05">
+            1775-01-05</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/82"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-125-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Duboys by Jacobus
+            Louw</unittitle>
+            <unitdate type="inclusive" normal="1775-01-05">
+            1775-01-05</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/140"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-126-2" level="item">
+          <did>
+            <unittitle>Semion Dubois to Cornl Johnson
+            Jun</unittitle>
+            <unitdate type="inclusive" normal="1775-10-20">
+            1775-10-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/133"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-127-2" level="item">
+          <did>
+            <unittitle>Receipt, Siemon Dubois "by the hands of his
+            son" by John Eltinge</unittitle>
+            <unitdate type="inclusive" normal="1776-04-01">
+            1776-04-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/90"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-128-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Du boys by Jacobus
+            Low</unittitle>
+            <unitdate type="inclusive" normal="1776-05-28">
+            1776-05-28</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/46"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-129-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Corn E
+            Wynkoop</unittitle>
+            <unitdate type="inclusive" normal="1776-07-04">
+            1776-07-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/47"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-130-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Jon
+            Elmendorf</unittitle>
+            <unitdate type="inclusive" normal="1776-07-05">
+            1776-07-05</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/49"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-131-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Jeremias
+            Low</unittitle>
+            <unitdate type="inclusive" normal="1779-02-17">
+            1779-02-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/118"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-132-2" level="item">
+          <did>
+            <unittitle>Promissory note payable to and acknowledged
+            as paid by James Burns</unittitle>
+            <unitdate type="inclusive" normal="1780-05-20">
+            1780-05-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/836"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-133-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon Dubois by
+            Moses Cantine</unittitle>
+            <unitdate type="inclusive" normal="1780-11-02">
+            1780-11-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/33"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-134-2" level="item">
+          <did>
+            <unittitle>Invoice for wheels and receipt for taxes by
+            Elias Hardenbergh, Collector</unittitle>
+            <unitdate type="inclusive" normal="1781-04-03">
+            1781-04-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/815"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-135-2" level="item">
+          <did>
+            <unittitle>Letter to Simon DuBois, New Paltz, from [A
+            ?] Hasbrouck, Kingston</unittitle>
+            <unitdate type="inclusive" normal="1781-12-09">
+            1781-12-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/806"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-136-2" level="item">
+          <did>
+            <unittitle>Certification by Dan. Graham, a Justice of
+            the Peace of Ulster County</unittitle>
+            <unitdate type="inclusive" normal="1783-03-07">
+            1783-03-07</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/121"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-137-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by the hands of Samuel
+            Freer by J Hasbrouck, Kingston</unittitle>
+            <unitdate type="inclusive" normal="1783-06-19">
+            1783-06-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/147"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-138-2" level="item">
+          <did>
+            <unittitle>Certificate, Stephen Roe, for
+            tuition</unittitle>
+            <unitdate type="inclusive" normal="1785-05-02">
+            1785-05-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/821"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-139-2" level="item">
+          <did>
+            <unittitle>Letter, John Cantine, Marbletown</unittitle>
+            <unitdate type="inclusive" normal="1785-06-24">
+            1785-06-24</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/68"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-140-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Elisabeth
+            Hasbroeck</unittitle>
+            <unitdate type="inclusive" normal="1785-08-10">
+            1785-08-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/45"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-141-2" level="item">
+          <did>
+            <unittitle>Promissory note, to Abraham Bevier and Evert
+            Roos, by Simon Dubois</unittitle>
+            <unitdate type="inclusive" normal="1786-09-08">
+            1786-09-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/827"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-142-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Deboys by Jacob
+            Dayton</unittitle>
+            <unitdate type="inclusive" normal="1786-11-09">
+            1786-11-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/153"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-143-2" level="item">
+          <did>
+            <unittitle>Inventory of goods, Simon DuBoys, paid by
+            Peter Wynkoop</unittitle>
+            <unitdate type="inclusive" normal="1786-12-17">
+            1786-12-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/51"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-144-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Debooys by Matthew
+            Bevier</unittitle>
+            <unitdate type="inclusive" normal="1787-02-13">
+            1787-02-13</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/21"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-145-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Peter Lefever Jun
+            Collector, New Paltz</unittitle>
+            <unitdate type="inclusive" normal="1787-02-13">
+            1787-02-13</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/143"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-146-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Duboys by Simeon
+            Low</unittitle>
+            <unitdate type="inclusive" normal="1787-03-08">
+            1787-03-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/112"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-147-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois by Hugo Freer
+            Jr</unittitle>
+            <unitdate type="inclusive" normal="1787-08-13">
+            1787-08-13</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/28"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-148-2" level="item">
+          <did>
+            <unittitle>Receipt (fragment), Simon Deboys</unittitle>
+            <unitdate type="inclusive" normal="1788-01-23">
+            1788-01-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/1"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-149-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Duboys by the hand of his son
+            Daniel, by Jacob Tremper, Kingston</unittitle>
+            <unitdate type="inclusive" normal="1788-01-23">
+            1788-01-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/100"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-150-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Christian
+            Auchmoody by Simon Duboys, witnessed by Daniel Dubois
+            Jun</unittitle>
+            <unitdate type="inclusive" normal="1788-02-12">
+            1788-02-12</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/794"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-151-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Dubois on behalf of Peter Van
+            Gaasbeck, by Sylvester Marcus Groen,
+            Kingston</unittitle>
+            <unitdate type="inclusive" normal="1789-11-08">
+            1789-11-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/19"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-152-2" level="item">
+          <did>
+            <unittitle>Receipt, Jophat Hasbrouck by Jacob
+            Whitney</unittitle>
+            <unitdate type="inclusive" normal="1790-11-01">
+            1790-11-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/6"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-153-2" level="item">
+          <did>
+            <unittitle>Accounting by Abraham Bevier Esq. of
+            payments made to Simon Dubois Deceased</unittitle>
+            <unitdate type="inclusive" normal="1791-09-12">
+            1791-09-12</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/776"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-154-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Rose on behalf of Daniel
+            Dubois Jun and Joseph Dubois by Isaac
+            Bodine</unittitle>
+            <unitdate type="inclusive" normal="1791-10-01">
+            1791-10-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/149"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-155-2" level="item">
+          <did>
+            <unittitle>Receipt, Moses Yeomans for payment to Daniel
+            and Isaac Dubois</unittitle>
+            <unitdate type="inclusive" normal="1792-03-01">
+            1792-03-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/50"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-156-2" level="item">
+          <did>
+            <unittitle>Receipt, Jacobus Aucmoode</unittitle>
+            <unitdate type="inclusive" normal="1792-03-01">
+            1792-03-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/55"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-157-2" level="item">
+          <did>
+            <unittitle>Receipt, Semion Dubois Decd by Jac Abm and
+            Jon Hasbrouck</unittitle>
+            <unitdate type="inclusive" normal="1792-03-01">
+            1792-03-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/60"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-158-2" level="item">
+          <did>
+            <unittitle>Receipt, Jeremiah Dubois from the executors
+            of the estate of Simon DuBois</unittitle>
+            <unitdate type="inclusive" normal="1792-03-01">
+            1792-03-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/106"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-159-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Duboys Jun and Isaac Duboys
+            by D. Wynkoop</unittitle>
+            <unitdate type="inclusive" normal="1792-03-01">
+            1792-03-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/155"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-160-2" level="item">
+          <did>
+            <unittitle>Receipt, Jeremiah Du bois Esq., paid by
+            Daniel Dubois Jun and Isack Du bois</unittitle>
+            <unitdate type="inclusive" normal="1792-03-03">
+            1792-03-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/39"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-161-2" level="item">
+          <did>
+            <unittitle>Receipt, George Wirtz of Daniel and Isaac
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1792-03-08">
+            1792-03-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/36"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-162-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jun. by Roelof Josias
+            Eltinge</unittitle>
+            <unitdate type="inclusive" normal="1792-03-26">
+            1792-03-26</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/137"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-163-2" level="item">
+          <did>
+            <unittitle>Bill and receipt, Simon Dubois, paid by
+            Daniel Dubois, by Salomon Louw</unittitle>
+            <unitdate type="inclusive" normal="1792-03-31">
+            1792-03-31</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/69"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-164-2" level="item">
+          <did>
+            <unittitle>Receipt, Josaphat Hasbrouck, from Daniel
+            Dubois, Isaac Dubois, Andries Dubois and Joseph
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1792-04-02">
+            1792-04-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/27"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-165-2" level="item">
+          <did>
+            <unittitle>Receipt, Josiah Hasbrouck from the executors
+            of Simon DuBois</unittitle>
+            <unitdate type="inclusive" normal="1792-04-02">
+            1792-04-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/56"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-166-2" level="item">
+          <did>
+            <unittitle>Receipt, Josephat Hasbrouck of Daniel and
+            Joseph Dubois</unittitle>
+            <unitdate type="inclusive" normal="1792-04-02">
+            1792-04-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/875"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-167-2" level="item">
+          <did>
+            <unittitle>Record of goods sold on behalf of Daniel
+            Dubois in New York by Peter G. Palen</unittitle>
+            <unitdate type="inclusive" normal="1792-12-12">
+            1792-12-12</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/96"
+            xlink:title="View item" />
+          </did>
+        </c>
+      </c>
+      <c id="c-168-1" level="file">
+        <did>
+          <unittitle>Receipts (1790-1846 and undated)</unittitle>
+          <unitdate>1793-1846, undated</unitdate>
+          <container type="Folder">000.005</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20008.000.005"
+          xlink:title="View Receipts (1793-1846 and undated) on NYH" />
+        </did>
+        <c id="c-169-2" level="item">
+          <did>
+            <unittitle>List of currency and other items,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/2"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-170-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by Simeon Low,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/9"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-171-2" level="item">
+          <did>
+            <unittitle>List of goods, undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/14"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-172-2" level="item">
+          <did>
+            <unittitle>List, proportions of fifty pounds,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/63"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-173-2" level="item">
+          <did>
+            <unittitle>List of goods sold and sums received at
+            vendue, no year noted</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/86"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-174-2" level="item">
+          <did>
+            <unittitle>List of goods sold for D Dubois by ?? Marsh,
+            June 6, [year illegible]</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/136"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-175-2" level="item">
+          <did>
+            <unittitle>List of household goods, undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/788"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-176-2" level="item">
+          <did>
+            <unittitle>Bearer bond, Daniel Dubois Jun to Mr.
+            Captain Smit, undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/833"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-177-2" level="item">
+          <did>
+            <unittitle>List of goods and prices,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/842"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-178-2" level="item">
+          <did>
+            <unittitle>List of currencies, undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/848"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-179-2" level="item">
+          <did>
+            <unittitle>Account, Henry Dubois owed to Abraham &amp;
+            Jon. Hasbrouck, undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/887"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-180-2" level="item">
+          <did>
+            <unittitle>List of money due on the order of 23 May
+            1790 of the Patentees Share of Isaac Dubois</unittitle>
+            <unitdate type="inclusive" normal="1790-05-23">
+            1790-05-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/78"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-181-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Daniel Dubois
+            Jun by Jorge Vonsaler</unittitle>
+            <unitdate type="inclusive" normal="1793-05-15">
+            1793-05-15</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/797"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-182-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Duboys Jun by J. DeLamater
+            Jun.</unittitle>
+            <unitdate type="inclusive" normal="1793-06-03">
+            1793-06-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/20"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-183-2" level="item">
+          <did>
+            <unittitle>List of goods sold for Daniel Dubois by Fred
+            Smith, New York</unittitle>
+            <unitdate type="inclusive" normal="1793-11-09">
+            1793-11-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/878"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-184-2" level="item">
+          <did>
+            <unittitle>List of cash by denomination totaling
+            Â£51,,5.8</unittitle>
+            <unitdate type="inclusive" normal="1793-11-23">
+            1793-11-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/43"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-185-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Samuel Dubois
+            and receipt signed by Samuel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1794-01-03">
+            1794-01-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/779"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-186-2" level="item">
+          <did>
+            <unittitle>Note to Willim Mares Jun. from Isaac
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1794-01-04">
+            1794-01-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/76"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-187-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by George
+            Wirtz</unittitle>
+            <unitdate type="inclusive" normal="1794-01-25">
+            1794-01-25</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/782"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-188-2" level="item">
+          <did>
+            <unittitle>Note to William Cain from Daniel Dubois
+            Jun</unittitle>
+            <unitdate type="inclusive" normal="1794-03-19">
+            1794-03-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/4"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-189-2" level="item">
+          <did>
+            <unittitle>Accounting of milling flour for Daniel
+            Dubois Jun, multiple dates, Baker &amp;
+            Sloan</unittitle>
+            <unitdate type="inclusive" normal="1794-04-05">
+            1794-04-05</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/157"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-190-2" level="item">
+          <did>
+            <unittitle>Accounting of milling flour for Daniel
+            DuBois, Baker &amp; Sloan</unittitle>
+            <unitdate type="inclusive" normal="1794-04-06">
+            1794-04-06</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/30"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-191-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jun. on behalf of
+            John Hoot by John Roos Jun.</unittitle>
+            <unitdate type="inclusive" normal="1794-04-10">
+            1794-04-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/107"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-192-2" level="item">
+          <did>
+            <unittitle>Note to Daniel Dubois by Jonathan
+            Tomkins</unittitle>
+            <unitdate type="inclusive" normal="1794-04-21">
+            1794-04-21</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/72"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-193-2" level="item">
+          <did>
+            <unittitle>Accounting for goods sold for Daniel Dubois
+            Jun by John Benson, New York (1)</unittitle>
+            <unitdate type="inclusive" normal="1794-06-03">
+            1794-06-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/98"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-194-2" level="item">
+          <did>
+            <unittitle>Accounting for goods sold for Daniel Dubois
+            Jun by John Benson, New York (2)</unittitle>
+            <unitdate type="inclusive" normal="1794-06-17">
+            1794-06-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/122"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-195-2" level="item">
+          <did>
+            <unittitle>Accounting for goods sold for Daniel Duboys
+            by Valentine Baker, New York</unittitle>
+            <unitdate type="inclusive" normal="1794-06-29">
+            1794-06-29</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/41"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-196-2" level="item">
+          <did>
+            <unittitle>Accounting of milling flour for Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1794-07-01">
+            1794-07-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/115"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-197-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jun by Joseph
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1794-09-25">
+            1794-09-25</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/905"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-198-2" level="item">
+          <did>
+            <unittitle>Receipt, Simon Roos by John Roos Jun. by the
+            hands of Daniel Dubois Jun.</unittitle>
+            <unitdate type="inclusive" normal="1795-06-01">
+            1795-06-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/134"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-199-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jun and Joseph Dubois
+            by the hands of Capt. Josiah Hasbrouck by J C
+            DeWitt</unittitle>
+            <unitdate type="inclusive" normal="1796-02-25">
+            1796-02-25</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/35"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-200-2" level="item">
+          <did>
+            <unittitle>Money due on the order of the 1 May 1796 of
+            the Patentees Share of Isaac Dubois</unittitle>
+            <unitdate type="inclusive" normal="1796-05-01">
+            1796-05-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/124"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-201-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Daniel Dubois
+            Jun by Petrus Bevier</unittitle>
+            <unitdate type="inclusive" normal="1797-01-10">
+            1797-01-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/866"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-202-2" level="item">
+          <did>
+            <unittitle>Receipt, the twelve pattentees of the Town
+            of New Paltz by Jac. Coddington</unittitle>
+            <unitdate type="inclusive" normal="1797-01-23">
+            1797-01-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/129"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-203-2" level="item">
+          <did>
+            <unittitle>Accounting of milling flour, for Daniel
+            Duboys by Thomas Van Gaasbeck</unittitle>
+            <unitdate type="inclusive" normal="1797-10-18">
+            1797-10-18</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/863"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-204-2" level="item">
+          <did>
+            <unittitle>Accounting of flour transactions</unittitle>
+            <unitdate type="inclusive" normal="1798/1799">
+            1798-1799</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/113"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-205-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jun, on behalf of
+            Simon Dubois, by Philip Eltinge</unittitle>
+            <unitdate type="inclusive" normal="1799-10-01">
+            1799-10-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/67"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-206-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by Wm.
+            Peters</unittitle>
+            <unitdate type="inclusive" normal="1799-12-27">
+            1799-12-27</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/102"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-207-2" level="item">
+          <did>
+            <unittitle>Receipt, Ev. Bogardus, New York</unittitle>
+            <unitdate type="inclusive" normal="1800-05-19">
+            1800-05-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/65"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-208-2" level="item">
+          <did>
+            <unittitle>Receipt, Mr. Deboys, bout of Robert Rulsey
+            Goelet, New York</unittitle>
+            <unitdate type="inclusive" normal="1800-05-19">
+            1800-05-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/103"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-209-2" level="item">
+          <did>
+            <unittitle>Receipt, Martin &amp; Soulier, New
+            York</unittitle>
+            <unitdate type="inclusive" normal="1800-05-19">
+            1800-05-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/120"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-210-2" level="item">
+          <did>
+            <unittitle>Receipt, Petes &amp; Gedney, New
+            York</unittitle>
+            <unitdate type="inclusive" normal="1800-05-19">
+            1800-05-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/126"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-211-2" level="item">
+          <did>
+            <unittitle>Receipt, Philander Brasher</unittitle>
+            <unitdate type="inclusive" normal="1800-05-19">
+            1800-05-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/130"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-212-2" level="item">
+          <did>
+            <unittitle>Receipt, Van Gieson &amp; Co., New
+            York</unittitle>
+            <unitdate type="inclusive" normal="1800-05-19">
+            1800-05-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/132"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-213-2" level="item">
+          <did>
+            <unittitle>Receipt, John T. Duryee, No. 164
+            Pearlstreet, New York</unittitle>
+            <unitdate type="inclusive" normal="1800-05-20">
+            1800-05-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/66"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-214-2" level="item">
+          <did>
+            <unittitle>Receipt, Rich'd Williamson, New
+            York</unittitle>
+            <unitdate type="inclusive" normal="1800-05-20">
+            1800-05-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/800"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-215-2" level="item">
+          <did>
+            <unittitle>Receipt, Panton &amp; Bradford, for Mrs.
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1800-05-21">
+            1800-05-21</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/54"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-216-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Daniel DuBois by
+            James Pardee</unittitle>
+            <unitdate type="inclusive" normal="1800-11-03">
+            1800-11-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/902"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-217-2" level="item">
+          <did>
+            <unittitle>Account ledger, Daniel Dubois with Thomas
+            Van Gaasbeck (1)</unittitle>
+            <unitdate type="inclusive" normal="1801-07-08">
+            1801-07-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/857"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-218-2" level="item">
+          <did>
+            <unittitle>Receipt for seventy-five dollars, Daniel
+            Dubois by Solomon Eltinge</unittitle>
+            <unitdate type="inclusive" normal="1803-07-05">
+            1803-07-05</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/141"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-219-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Daniel Dubois by
+            Jacob Deyo</unittitle>
+            <unitdate type="inclusive" normal="1803-12-17">
+            1803-12-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/893"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-220-2" level="item">
+          <did>
+            <unittitle>Account ledger, Daniel Dubois with Thomas
+            Van Gaasbeck (2)</unittitle>
+            <unitdate type="inclusive" normal="1804">
+            1804</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/818"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-221-2" level="item">
+          <did>
+            <unittitle>Receipt, Danl Dubois by Ebenr. B
+            Ayers</unittitle>
+            <unitdate type="inclusive" normal="1806-05-29">
+            1806-05-29</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/23"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-222-2" level="item">
+          <did>
+            <unittitle>Statement of votes in the town of New Paltz
+            in New York State Senate election, signed by Joseph
+            Deyo, W DuBois, Wells Lake, and Philip
+            Lefever</unittitle>
+            <unitdate type="inclusive" normal="1812-04-28">
+            1812-04-28</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/38"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-223-2" level="item">
+          <did>
+            <unittitle>Ledger headed DDB GKM, 1816</unittitle>
+            <unitdate type="inclusive" normal="1816">
+            1816</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/16"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-224-2" level="item">
+          <did>
+            <unittitle>Invoice, Daniel Dubois by Henry A.
+            Stephenson, Kingston</unittitle>
+            <unitdate type="inclusive" normal="1816-05-10">
+            1816-05-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/13"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-225-2" level="item">
+          <did>
+            <unittitle>Enlistment certificate, Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1816-10-08">
+            1816-10-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/99"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-226-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by D.V.R.
+            Lawson</unittitle>
+            <unitdate type="inclusive" normal="1816-12-27">
+            1816-12-27</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/52"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-227-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jr by Joseph H.
+            Bininger</unittitle>
+            <unitdate type="inclusive" normal="1817-04-07">
+            1817-04-07</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/108"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-228-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Junior by John W.
+            Deyo</unittitle>
+            <unitdate type="inclusive" normal="1817-04-15">
+            1817-04-15</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/908"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-229-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by Simon
+            Rose</unittitle>
+            <unitdate type="inclusive" normal="1817-04-20">
+            1817-04-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/884"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-230-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jun by D. Brodhead
+            Jun</unittitle>
+            <unitdate type="inclusive" normal="1817-04-25">
+            1817-04-25</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/58"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-231-2" level="item">
+          <did>
+            <unittitle>Promissory note payable to Daniel Dubois by
+            Jacob Low Jun and John Aubrey (1)</unittitle>
+            <unitdate type="inclusive" normal="1817-04-30">
+            1817-04-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/803"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-232-2" level="item">
+          <did>
+            <unittitle>Promissory note payable to Daniel Dubois by
+            Jacob Low Jun and John Aubrey (2)</unittitle>
+            <unitdate type="inclusive" normal="1817-04-30">
+            1817-04-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/812"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-233-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jun by John
+            Besemer</unittitle>
+            <unitdate type="inclusive" normal="1817-07-07">
+            1817-07-07</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/31"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-234-2" level="item">
+          <did>
+            <unittitle>Promissory note payable to Daniel Dubois by
+            Jonathan A. Lattin (3)</unittitle>
+            <unitdate type="inclusive" normal="1817-07-10">
+            1817-07-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/770"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-235-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by Simon
+            Lefever</unittitle>
+            <unitdate type="inclusive" normal="1817-08-22">
+            1817-08-22</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/62"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-236-2" level="item">
+          <did>
+            <unittitle>Promissory note payable to Alexander Coe by
+            Jacob J. Low</unittitle>
+            <unitdate type="inclusive" normal="1817-09-29">
+            1817-09-29</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/869"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-237-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Rose for a promise of Daniel
+            Dubois, by Peter Lefever</unittitle>
+            <unitdate type="inclusive" normal="1817-12-26">
+            1817-12-26</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/37"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-238-2" level="item">
+          <did>
+            <unittitle>List of notes payable to Daniel Dubois by
+            Jonathan A. Lattin 1817-1820</unittitle>
+            <unitdate type="inclusive" normal="1817/1820">
+            1817-1820</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/767"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-239-2" level="item">
+          <did>
+            <unittitle>Receipt for tax for 1817, New Paltz, Daniel
+            Rose for Daniel Dubois by B[?] Cornell,
+            Collector</unittitle>
+            <unitdate type="inclusive" normal="1818-01-21">
+            1818-01-21</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/164"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-240-2" level="item">
+          <did>
+            <unittitle>Promissory note payable to Daniel Dubois by
+            Jonathan A. Lattin (2)</unittitle>
+            <unitdate type="inclusive" normal="1819-02-07">
+            1819-02-07</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/899"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-241-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois Jun by Wynch [Wyntje]
+            Freer, legacy of the last will of Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1819-07-01">
+            1819-07-01</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/5"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-242-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by John
+            Saxton</unittitle>
+            <unitdate type="inclusive" normal="1819-11-04">
+            1819-11-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/81"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-243-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by David
+            Selleck</unittitle>
+            <unitdate type="inclusive" normal="1819-11-26">
+            1819-11-26</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/48"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-244-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Isaac Craft,
+            Simon M. Lefever &amp; Daniel Dubois by Gilbert
+            Saxton</unittitle>
+            <unitdate type="inclusive" normal="1820-05-09">
+            1820-05-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/872"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-245-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Daniel Dubois by
+            Jonathan A. Lattin (1)</unittitle>
+            <unitdate type="inclusive" normal="1820-06-08">
+            1820-06-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/839"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-246-2" level="item">
+          <did>
+            <unittitle>Accounting of four notes given at different
+            times</unittitle>
+            <unitdate type="inclusive" normal="1820-06-28">
+            1820-06-28</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/17"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-247-2" level="item">
+          <did>
+            <unittitle>Receipt, John J. Lefever by Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1820-06-28">
+            1820-06-28</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/809"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-248-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon M. Lefever
+            by Isaac Craft and Daniel Dubois (5)</unittitle>
+            <unitdate type="inclusive" normal="1820-07-10">
+            1820-07-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/845"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-249-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Abraham Cantine
+            or bearer by Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1820-08-29">
+            1820-08-29</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/824"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-250-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon M.
+            Lefever, debtor's name missing</unittitle>
+            <unitdate type="inclusive" normal="1820-09-13">
+            1820-09-13</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/791"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-251-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois for Johannis York by
+            Solomon S. York</unittitle>
+            <unitdate type="inclusive" normal="1820-11-09">
+            1820-11-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/91"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-252-2" level="item">
+          <did>
+            <unittitle>Invoice and receipt, Daniel Dubois by
+            Silvester Strong</unittitle>
+            <unitdate type="inclusive" normal="1820-12-14">
+            1820-12-14</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/146"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-253-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon Lefever by
+            Isaac Craft and Daniel Dubois (3)</unittitle>
+            <unitdate type="inclusive" normal="1821-01-17">
+            1821-01-17</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/854"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-254-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon Lefever by
+            Isaac Craft and Daniel Dubois (2)</unittitle>
+            <unitdate type="inclusive" normal="1821-03-21">
+            1821-03-21</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/881"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-255-2" level="item">
+          <did>
+            <unittitle>Receipt, W.W. &amp; T.L. Chester, New
+            York</unittitle>
+            <unitdate type="inclusive" normal="1821-05-08">
+            1821-05-08</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/12"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-256-2" level="item">
+          <did>
+            <unittitle>Promissory note, payable to Simon Lefever by
+            Isaac Craft and Daniel Dubois (1)</unittitle>
+            <unitdate type="inclusive" normal="1821-05-23">
+            1821-05-23</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/830"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-257-2" level="item">
+          <did>
+            <unittitle>Bearer note, payable to John Van Voorhis by
+            Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1821-05-27">
+            1821-05-27</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/764"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-258-2" level="item">
+          <did>
+            <unittitle>Judgment, Gilbert Saxton vs. James
+            Lockwood</unittitle>
+            <unitdate type="inclusive" normal="1822-03-22">
+            1822-03-22</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/911"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-259-2" level="item">
+          <did>
+            <unittitle>List of legal services and costs, Chas. De
+            Witt</unittitle>
+            <unitdate type="inclusive" normal="1823-05-20">
+            1823-05-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/3"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-260-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois for E. J. Roberts by
+            L. J. Freer</unittitle>
+            <unitdate type="inclusive" normal="1823-10-03">
+            1823-10-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/53"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-261-2" level="item">
+          <did>
+            <unittitle>Note and receipt, Dubois Lefever &amp;
+            Craft</unittitle>
+            <unitdate type="inclusive" normal="1824-04-13">
+            1824-04-13</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/773"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-262-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois to Ebenezer
+            Kilby</unittitle>
+            <unitdate type="inclusive" normal="1824-05-21">
+            1824-05-21</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/117"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-263-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois, by Zacharias
+            Hasbrouck, Andres Hasbrouck, Simon Hasbrouck, and Jonas
+            Hasbrouck executor of Daniel J. Hasbrouck</unittitle>
+            <unitdate type="inclusive" normal="1835-09-26">
+            1835-09-26</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/785"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-264-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by Rachel
+            Hasbrouck</unittitle>
+            <unitdate type="inclusive" normal="1835-09-26">
+            1835-09-26</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/860"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-265-2" level="item">
+          <did>
+            <unittitle>Receipt, sold for Daniel Dubois by P. D.
+            Lefever</unittitle>
+            <unitdate type="inclusive" normal="1841-04-20">
+            1841-04-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/44"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-266-2" level="item">
+          <did>
+            <unittitle>Receipt, P. D. Lefever by Daniel Dubois
+            (2)</unittitle>
+            <unitdate type="inclusive" normal="1841-04-27">
+            1841-04-27</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/95"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-267-2" level="item">
+          <did>
+            <unittitle>Receipt, P. D. Lefever by Daniel Dubois
+            (1)</unittitle>
+            <unitdate type="inclusive" normal="1841-05-11">
+            1841-05-11</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/83"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-268-2" level="item">
+          <did>
+            <unittitle>Receipt, Daniel Dubois by L.
+            Eltinge</unittitle>
+            <unitdate type="inclusive" normal="1846-04-30">
+            1846-04-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/150"
+            xlink:title="View item" />
+          </did>
+        </c>
+      </c>
+      <c id="c-269-1" level="file">
+        <did>
+          <unittitle>Caldwell &amp; Pearson (Store) Poster, Albany
+          NY (1792) - oversize</unittitle>
+          <unitdate type="inclusive" normal="1792">1792</unitdate>
+          <container type="Folder">000.006</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20008.000.006"
+          xlink:title="View Caldwell &amp; Pearson (Store) Poster, Albany NY (1792) on NYH" />
+        </did>
+        <c id="c-270-2" level="item">
+          <did>
+            <unittitle>Broadside, Caldwell &amp; Pearson, No. 45,
+            Market-Street, Albany.</unittitle>
+            <unitdate type="inclusive" normal="1792">
+            1792</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/993"
+            xlink:title="View item" />
+          </did>
+        </c>
+      </c>
+      <c id="c-271-1" level="file">
+        <did>
+          <unittitle>Estate Papers (1710-1787) -
+          oversize</unittitle>
+          <unitdate type="inclusive" normal="1740/1787">
+          1740-1787</unitdate>
+          <container type="Folder">000.007</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20008.000.007"
+          xlink:title="View Estate Papers (1740-1787) on NYH" />
+        </did>
+        <c id="c-272-2" level="item">
+          <did>
+            <unittitle>Deed, Solomon Du bois and Lewis Du bois to
+            Daniel Dubois and Philip Dubois</unittitle>
+            <unitdate type="inclusive" normal="1710-12-27">
+            1710-12-27</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/1017"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-273-2" level="item">
+          <did>
+            <unittitle>Deed, Jacob Hasbrouck and Estere his wife to
+            Henderick Doyo</unittitle>
+            <unitdate type="inclusive" normal="1740-09-15">
+            1740-09-15</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/57"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-274-2" level="item">
+          <did>
+            <unittitle>Deed, Lowrance Low "of Harlaem in the City
+            of New York" to Hendricus Dubois</unittitle>
+            <unitdate type="inclusive" normal="1748-10-05">
+            1748-10-05</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/1001"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-275-2" level="item">
+          <did>
+            <unittitle>Deed, Henderick Doyo to Christoffel
+            Doyo</unittitle>
+            <unitdate type="inclusive" normal="1751-05-06">
+            1751-05-06</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/1014"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-276-2" level="item">
+          <did>
+            <unittitle>Deed, Matthew Allen to Simon
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1753-09-02">
+            1753-09-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/79"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-277-2" level="item">
+          <did>
+            <unittitle>Deed from Matthew Allen and Margaret his
+            wife to Simon Dubois</unittitle>
+            <unitdate type="inclusive" normal="1753-09-03">
+            1753-09-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/928"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-278-2" level="item">
+          <did>
+            <unittitle>Deed, Noah Eltinge to Benjamin
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1754-03-14">
+            1754-03-14</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/116"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-279-2" level="item">
+          <did>
+            <unittitle>Deed, Noah Eltinge to Benjamin
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1754-03-15">
+            1754-03-15</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/987"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-280-2" level="item">
+          <did>
+            <unittitle>Deed, Hendrick Doyo to Christoffell
+            Doyo</unittitle>
+            <unitdate type="inclusive" normal="1754-10-09">
+            1754-10-09</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/956"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-281-2" level="item">
+          <did>
+            <unittitle>Deed, Abraham Donaldson and Elizabeth his
+            wife to Christoffel Do Yo</unittitle>
+            <unitdate type="inclusive" normal="1761-06-04">
+            1761-06-04</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/918"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-282-2" level="item">
+          <did>
+            <unittitle>Deed, Jacob Hoornbeek, Andries Dewitt, and
+            Jacobus Vanwagenen, "the present trustees of the Lands
+            and premises of the township of Rochester" to Nathaniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1770-06-10">
+            1770-06-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/922"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-283-2" level="item">
+          <did>
+            <unittitle>Deed, Nathaniel Dubois to David
+            Graham</unittitle>
+            <unitdate type="inclusive" normal="1777-05-10">
+            1777-05-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/942"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-284-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, Benjamin Dubois, Elizabeth
+            Doiau, "Widow and Relict of Abraham Doiau deceased,"
+            Captain Abraham Doiau, Daniel Doiau, Simon Doriau,
+            Jonathan Doiau, Philip Doiau, and Nathaniel Lefever and
+            Mary his wife, to Simon Dubois</unittitle>
+            <unitdate type="inclusive" normal="1779-12-18">
+            1779-12-18</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/915"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-285-2" level="item">
+          <did>
+            <unittitle>Deed, Benjamin Dubois to Simon Dubois, Simon
+            Doiau, and Mary the wife of Nathaniel
+            Lefever</unittitle>
+            <unitdate type="inclusive" normal="1779-12-18">
+            1779-12-18</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/932"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-286-2" level="item">
+          <did>
+            <unittitle>Agreement to divide a lot of land, Nathaniel
+            Lefever and Mary his wife and Simon Dubois</unittitle>
+            <unitdate type="inclusive" normal="1780-01-15">
+            1780-01-15</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/32"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-287-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, John Lefever, Matthew
+            Lefever, and Jonathan Lefever, to Simon
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1780-02-03">
+            1780-02-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/981"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-288-2" level="item">
+          <did>
+            <unittitle>Deed of gift, Simon Dubois to Daniel, Jack,
+            and Joseph Dubois</unittitle>
+            <unitdate type="inclusive" normal="1785-10-03">
+            1785-10-03</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/25"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-289-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, George Wirtz to Simon
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1786-01-02">
+            1786-01-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/24"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-290-2" level="item">
+          <did>
+            <unittitle>Deed, Simon Lefever and Janneken his wife,
+            Jonathan Lefever and Anna his wife, and Coonraat
+            Lefever and Maria his wife, and Simon
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1787-04-30">
+            1787-04-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/948"
+            xlink:title="View item" />
+          </did>
+        </c>
+      </c>
+      <c id="c-291-1" level="file">
+        <did>
+          <unittitle>Estate Papers (1790-1823) -
+          oversize</unittitle>
+          <unitdate type="inclusive" normal="1790/1823">
+          1790-1823</unitdate>
+          <container type="Folder">000.008</container>
+          <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+          xlink:type="simple"
+          xlink:href="https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll153/search/searchterm/MSS%20008.000.008"
+          xlink:title="View Estate Papers (1790-1823) on NYH" />
+        </did>
+        <c id="c-292-2" level="item">
+          <did>
+            <unittitle>Articles of agreement, Daniel Dubois to
+            Nathaniel le fever, fragment, February 22, year not
+            visible</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/151"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-293-2" level="item">
+          <did>
+            <unittitle>Deed fragment, no date or parties' names
+            visible</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/171"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-294-2" level="item">
+          <did>
+            <unittitle>Deed fragment mentioning Grand Pere's Lot,
+            undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/207"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-295-2" level="item">
+          <did>
+            <unittitle>Deed fragment, undated</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/237"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-296-2" level="item">
+          <did>
+            <unittitle>Deed fragment, Nathaniel Lefever to Benjamin
+            Dubois, Simon Dubois, Abraham Doiau and Elizabeth his
+            wife</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/935"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-297-2" level="item">
+          <did>
+            <unittitle>Deed fragment, Benjamin Dubois, no other
+            parties' names or date visible</unittitle>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/1011"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-298-2" level="item">
+          <did>
+            <unittitle>Deed, Benjamin Dubois, Abraham Doiau and
+            Elizabeth his wife to Simon Dubois</unittitle>
+            <unitdate type="inclusive" normal="1768-04-30">
+            1768-04-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/973"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-299-2" level="item">
+          <did>
+            <unittitle>Deed fragment, Nathaniel Lefever to Benjamin
+            Dubois, Simon Dubois, Abraham Doiau and Elizabeth his
+            wife</unittitle>
+            <unitdate type="inclusive" normal="1768-04-30">
+            1768-04-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/1020"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-300-2" level="item">
+          <did>
+            <unittitle>Deed, David Louw and Rachel his wife to
+            Nathaniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1790-05-14">
+            1790-05-14</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/990"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-301-2" level="item">
+          <did>
+            <unittitle>Deed, Roelof Josias Eltinge to Daniel Dubois
+            Junr</unittitle>
+            <unitdate type="inclusive" normal="1790-05-28">
+            1790-05-28</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/145"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-302-2" level="item">
+          <did>
+            <unittitle>Deed, the Rev Stephen Goetschius to Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1794-01-20">
+            1794-01-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/960"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-303-2" level="item">
+          <did>
+            <unittitle>Deed, Christijan Doyo to David
+            Doyo</unittitle>
+            <unitdate type="inclusive" normal="1798-05-18">
+            1798-05-18</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/61"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-304-2" level="item">
+          <did>
+            <unittitle>Deed, Christiyan Doyo and Aleda his wife to
+            David Doyo</unittitle>
+            <unitdate type="inclusive" normal="1798-05-19">
+            1798-05-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/1005"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-305-2" level="item">
+          <did>
+            <unittitle>Deed, Jonas Hasbrouck to Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1814-02-10">
+            1814-02-10</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/111"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-306-2" level="item">
+          <did>
+            <unittitle>Deed, Jonathan Deyo to Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1816-12-19">
+            1816-12-19</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/139"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-307-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, Roeliff Hasbrouck to
+            Jonathan Lefever Junior and Dinah his wife, William W.
+            Doyo and Sarah his wife, Jacob H. Roosa and Catryntje
+            his wife and Magdalin Hasbrouck</unittitle>
+            <unitdate type="inclusive" normal="1819-01-20">
+            1819-01-20</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/969"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-308-2" level="item">
+          <did>
+            <unittitle>Quit claim deed, Jonathan J. Lefever and
+            Dinah his wife, William W. Deyo and Sarah his wife,
+            Jacob M. Rousa and Catryntje his wife, to Magdalin
+            Hasbrouck</unittitle>
+            <unitdate type="inclusive" normal="1819-06-14">
+            1819-06-14</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/952"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-309-2" level="item">
+          <did>
+            <unittitle>Deed, Andries Dubois and Elizabeth his wife
+            to Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1822-09-02">
+            1822-09-02</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/963"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-310-2" level="item">
+          <did>
+            <unittitle>Sheriff's deed, Abraham Cantine, Sheriff of
+            the County of Ulster, to Daniel Dubois</unittitle>
+            <unitdate type="inclusive" normal="1822-12-16">
+            1822-12-16</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/945"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-311-2" level="item">
+          <did>
+            <unittitle>Sheriff's deed, Abraham Cantine, Sheriff of
+            the County of Ulster, to Simon M. Lefever</unittitle>
+            <unitdate type="inclusive" normal="1822-12-16">
+            1822-12-16</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/1008"
+            xlink:title="View item" />
+          </did>
+        </c>
+        <c id="c-312-2" level="item">
+          <did>
+            <unittitle>Deed, Jonathan Deyo to Daniel
+            Dubois</unittitle>
+            <unitdate type="inclusive" normal="1823-12-30">
+            1823-12-30</unitdate>
+            <dao xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:type="simple"
+            xlink:href="http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll153/id/925"
+            xlink:title="View item" />
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
