@@ -1,24 +1,16 @@
-<% manifest_url = @document['dado_identifier_ssm']&.first %>
-<% action = @document['dado_action_ssm']&.first %>
+# frozen_string_literal: true
 
-<% if action&.downcase == "embed" && manifest_url.present? %>
-  <div class="mirador-container mb-3" id="mirador-container" style="height: 600px; position: relative; overflow: hidden;"></div>
-<% elsif manifest_url.present? %>
-  <a class="plain_link" href="<%= manifest_url %>"><%= @resource.label %></a>
-<% end %>
+module Arclight
+  # Render an oembed viewer for a document
+  class OembedViewerComponent < ViewComponent::Base
+    with_collection_parameter :resource
 
-<%= javascript_include_tag "https://unpkg.com/mirador@4/dist/mirador.min.js" %>
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const miradorContainer = document.getElementById('mirador-container');
-    if (!miradorContainer) return;
+    def initialize(resource:, document:, depth: 0)
+      super()
 
-    const viewer = Mirador.viewer({
-      id: 'mirador-container',
-      windows: [{
-        loadedManifest: '<%= manifest_url %>',
-        canvasIndex: 0
-      }]
-    });
-  });
-</script>
+      @resource = resource
+      @document = document
+      @depth = depth
+    end
+  end
+end
