@@ -1,0 +1,11 @@
+nynephhs:
+  name: 'Historic Huguenot Street'
+  description: 'The Schoonmaker Research Library is devoted primarily to the mission of Historic Huguenot Street and to local history and genealogy of the settling of New Paltz and surrounding areas of the Hudson Valley.'
+  thumbnail_url: 'https://empireadc.org/wp-content/uploads/repo_logos/nynephhs.png'
+  location_html: |
+    <div class='al-repository-street-address-address1'>88 Huguenot St</div>
+    <div class='al-repository-street-address-city_state_zip_country'> New Paltz, NY 12561, United States</div>
+    <div class='al-repository-url'><a href='https://www.huguenotstreet.org/research' target='_blank'>Link to repository site</a></div>
+  contact_html: |
+    <div class='al-repository-contact-phone'> (845) 255-1889</div>
+    <div class='al-repository-contact-info'>info@huguenotstreet.org</div>

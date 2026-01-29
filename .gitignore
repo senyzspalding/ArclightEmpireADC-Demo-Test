@@ -1,0 +1,42 @@
+# Rails / Ruby
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/storage/*
+/public/assets
+/public/packs
+/public/packs-test
+.byebug_history
+
+# Secrets
+.env
+.env.*
+config/database.yml
+config/master.key
+config/credentials*.yml.enc
+config/secrets.yml
+
+# Node
+/node_modules
+/yarn-error.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Ruby managers
+.ruby-version
+.tool-versions
+
+# Coverage
+/coverage
+
+# Rails runtime/cache (do not commit)
+tmp/
+log/
+storage/
+
+# Bootsnap cache explicitly
+tmp/cache/
