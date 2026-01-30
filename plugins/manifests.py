@@ -57,6 +57,11 @@ class ManifestsPlugin(Plugin):
             # Use iiif_utils to enrich the DAO with manifest data
             if enrich_dao_from_manifest(dao, manifest_url=dao.identifier):
                 dao.action = "embed"
+
+                if "Personal Name" in dao.metadata.keys():
+                    names = dao.metadata["Personal Name"].split("; ")
+                    dao.metadata["Personal Name"] = names
+
             else:
                 print(f"Failed to fetch manifest, linking instead of embedding.")
                 dao.action = "link"
